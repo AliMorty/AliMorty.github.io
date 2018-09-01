@@ -21,6 +21,8 @@ This course is taught by Dr.Heari. My main task includes: <br>
 Assignments has two parts. 
 > Questions<br>
 > Computer Experiment<br>
+<br>
+
 #### Questions includes:
 * Calculating Probabilities
 * Proofing the property
