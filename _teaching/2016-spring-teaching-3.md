@@ -1,5 +1,5 @@
 ---
-title: "Teacher Assistant of Algorithm Design"
+title: "Teaching Assistant in Algorithm Design"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-spring-teaching-1
