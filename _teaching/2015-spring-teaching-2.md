@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant in Algorithm Design"
 collection: teaching
-type: "Workshop"
+type: "course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Amirkabir University, Mathematics and Computer Science Department"
+date: 2017-01-01
+location: "Tehran, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course was taught by Dr. Rahmati. I was in the problem setting team.
 
-Heading 1
-======
+This course had 5 assignments:
+* Stable Matching
+* Greedy Algorithm and Graph
+* Divide and conquer
+* Dynamic Programming
+* Computation Complexity
 
-Heading 2
-======
-
-Heading 3
-======
