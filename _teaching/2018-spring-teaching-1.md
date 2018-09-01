@@ -9,9 +9,13 @@ location: "Tehran, Iran"
 ---
 
 This course is taught by Dr.Heari. My main task was includes: <br>
-* Creating and designing assignments and 
-* Conducting classes for students, in which extra content and concepts (Probabilitic Cache Schedule Algorithms, Relation between MSE and MLE with gussian noise, etc.) were presented.
-
+* Creating and designing assignments 
+* Conducting classes for students, in which extra content and concepts were presented. Such as:
+** Probabilitic Cache Schedule Algorithms
+** Naive Bayes Classifier as a simple example of PGMs
+** Why we use MSE? Proofing that A Maximum Likelyhood Estimation with gussian noise is equal to minimzing the MSE
+** Bootstrap as a way to estimate a Statistic and then construct a confidence interval.
+** Random Walk
 
 teach extra content for enthusiastic students. 
 Assignments has two parts. 
