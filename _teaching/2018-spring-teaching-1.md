@@ -1,5 +1,5 @@
 ---
-title: "Teacher Assistant of Probability and Statistics for Engineering"
+title: "Teaching Assistant in Probability and Statistics for Engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-spring-teaching-1
