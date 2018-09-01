@@ -15,8 +15,8 @@ This course is taught by Dr.Heari. My main task was includes: <br>
 
 teach extra content for enthusiastic students. 
 Assignments has two parts. 
-> Questions
-> Computer Experiment
+> Questions<br>
+> Computer Experiment<br>
 #### Questions includes:
 * Calculating Probabilities
 * Proofing the property
