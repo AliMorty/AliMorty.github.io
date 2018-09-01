@@ -1,5 +1,5 @@
 ---
-title: "Teacher Assistant of Probability and Statistics for Engineering"
+title: "Class for Olympiad Preparation"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-spring-teaching-4
