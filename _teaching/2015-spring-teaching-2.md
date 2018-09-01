@@ -8,7 +8,7 @@ date: 2017-01-01
 location: "Tehran, Iran"
 ---
 
-This course was taught by Dr. Rahmati. I was in the problem setting team. [more info](https://github.com/AliMorty/2017-spring-algorithm-design-TA)
+This course was taught by Dr. Rahmati. I was in the problem setting team. 
 
 This course had 5 assignments:
 * Stable Matching
@@ -17,3 +17,4 @@ This course had 5 assignments:
 * Dynamic Programming
 * Computation Complexity
 
+[more info](https://github.com/AliMorty/2017-spring-algorithm-design-TA)
