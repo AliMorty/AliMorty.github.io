@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 ## Some markdown files
-### SIX
+### SIX | strip_html | strip_newlines | escape_once
+<meta itemprop="description" content="{{ ## hello <br> I am happy | markdownify  }}">
 
-<p>{{ ## hello <br> I am happy | markdownify }}</p>
 
 {% for post in site.grades reversed %}
   {% include archive-single-grade.html %}
