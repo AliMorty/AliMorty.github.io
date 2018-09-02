@@ -10,7 +10,7 @@ location: "Tehran, Iran"
 
 This course is taught by Dr.Heari. My main task includes: <br>
 * Creating and designing assignments 
-* Conducting classes for students, in which extra content and concepts were presented. Such as:
+* Conducting classes for students, in which extra contents and concepts were presented. Such as:
     * Probabilistic Cache Schedule Algorithms
     * Naive Bayes Classifier as a simple example of PGMs
     * Why do we use MSE? Proofing that A Maximum Likelihood Estimation with Gaussian noise is equal to minimizing the MSE
