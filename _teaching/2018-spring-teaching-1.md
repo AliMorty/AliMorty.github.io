@@ -26,7 +26,8 @@ Assignments has two parts.
 #### Questions includes:
 * Calculating Probabilities
 * Proofing the property
-* Modeling some real world example with our statistical tools <br>
+* Modeling some real world example with our statistical tools 
+<br> <br>
 #### Computer Experiment  includes: 
 * Naive Bayes Classifier
 * Sampling From a Distribution and Plotting corresponding Graphs
