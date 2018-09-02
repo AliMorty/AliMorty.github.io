@@ -20,7 +20,7 @@ This course is taught by Dr.Heari. My main task includes: <br>
 
 Assignments has two parts. 
 > Questions<br>
-> Computer Experiment<br>
+> Computer Experiments<br>
 <br>
 
 #### Questions includes:
