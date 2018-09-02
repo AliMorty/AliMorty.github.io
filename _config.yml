@@ -84,7 +84,7 @@ author:
   bio              : "BSc of Computer Engineering at AmirKabir University of Technology"
   location         : "Tehran"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "mortazavi.ali1994@gmail.com"
   uri              :
   bitbucket        :
