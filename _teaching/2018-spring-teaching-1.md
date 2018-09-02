@@ -18,7 +18,7 @@ This course is taught by Dr.Heari. My main task includes: <br>
     * Random Walk
 
 
-Assignments has two parts. 
+Assignments have two parts. 
 > Questions<br>
 > Computer Experiments<br>
 <br>
