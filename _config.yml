@@ -253,6 +253,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+    # _award
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: talk
+      author_profile: true
+      share: true
     # _prjects
   - scope:
       path: ""
