@@ -48,9 +48,9 @@ author_profile: true
 | BCs Project                               |   20  |  4  |   3  |
 |================================================================|
 | GPA in 20                                 | **19.33** |     |      |
-| GPA                                       |   **4 **  |     |      |
+| GPA                                       |   **4**  |     |      |
                                                                   
 
 {% for post in site.grades reversed %}
-  {% include archive-single-grade.html %}
+  {% include archive-single-talk.html %}
 {% endfor %}
