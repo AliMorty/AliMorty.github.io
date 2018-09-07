@@ -23,20 +23,6 @@ EDUCATION
 > * CGPA:   Overall         18.47 / 20   
 > * CS courses   18.89 / 20 <br>
                                                                   
-RESEARCH INTEREST
-======
-In general, I am interested in applied mathematics, probability and statistics. 
-I like to study how a human can **understand concepts** and how we can **encode knowledge** in computers so they can infer like a human. Now, with the growth of Deep Learning Systems, I am really interested in understanding what **really** Deep Neural Networks learn! 
-I am also interested in how we can develop a **mechanism** to guarantee that computers will be safe for human species. <br>
-My research interest is:
-*	Statistical Machine Learning
-*	Probabilistic Models
-*	Deep Neural Networks
-*	Optimization
-*	Probabilistic Graphical Model
-*	Reinforcement Learning
-*	Game Theory
-* Natural Language Processing
 
 ACADEMIC PROJECTS
 ======
