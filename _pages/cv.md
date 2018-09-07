@@ -1,5 +1,5 @@
 ---
-permalink: /education/
+permalink: /cv/
 title: "CV"
 excerpt: "More about me"
 author_profile: true
