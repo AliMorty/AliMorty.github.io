@@ -40,7 +40,7 @@ My research interest is:
 
 ACADEMIC PROJECTS
 ======
-  <ul>{% for post in site.projects %}
+  <ul>{% for post in site.projects reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
