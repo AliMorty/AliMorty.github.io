@@ -23,32 +23,10 @@ EDUCATION
 > * CGPA:   Overall         18.47 / 20   
 > * CS courses   18.89 / 20 <br>
 
-TEST
-======
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
 
 
 ### GRADES
+
 | Course Name                               | Score | GPA | Unit |
 |:------------------------------------------|:-----:|:---:|-----:|
 | Engineering Statistics                    |   20  |  4  |   3  |
@@ -75,8 +53,7 @@ TEST
 |================================================================|
 | GPA in 20                                 | 19.33 |     |      |
 | GPA                                       |   4   |     |      |
-
-                                                                       
+                                                                  
 
 RESEARCH INTEREST
 ======
