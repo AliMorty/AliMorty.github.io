@@ -1,6 +1,6 @@
 ---
 title: "Best Score in Mathematics Team Selection Exam"
-permalink: /awards/2016-spring-award-2
+permalink: /awards/2015-spring-award-2
 venue: "AmirKabir University, Mathematics and Computer Science Department"
 date: 2015-01-01
 location: "Tehran, Iran"
