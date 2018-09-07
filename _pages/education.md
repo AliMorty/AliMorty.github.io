@@ -22,10 +22,11 @@ author_profile: true
 <a href="https://github.com/AliMorty/AliMorty.github.io/blob/master/files/Mortazavi_All_Grades.pdf">Download All_Grades.pdf</a>
 <h2> Selected Grades</h2>
 <br>
-# a change YOU CAN SEE 
-<br>
+
+### Selected Courses
+
 | Course Name                               | Score | GPA | Unit |
-|-------------------------------------------|:-----:|:---:|:----:|
+|:------------------------------------------|:-----:|:---:|-----:|
 | Engineering Statistics                    |   20  |  4  |   3  |
 | Stochastic Processes (I)                  |   20  |  4  |   3  |
 | Data Storage & Retrieval                  |   20  |  4  |   3  |
@@ -47,8 +48,10 @@ author_profile: true
 | Differential Equations                    |  19.8 |  4  |   3  |
 | Engineering Mathematics                   |   20  |  4  |   3  |
 | BCs Project                               |   20  |  4  |   3  |
-| GPA in 20                                 | **19.33** |     |      |
-| GPA                                       |   **4**   |     |      |
+|================================================================|
+| GPA in 20                                 | 19.33 |     |      |
+| GPA                                       |   4   |     |      |
+                                                                  
 
 
 {% include My_Selected_Grades.html %}
