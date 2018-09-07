@@ -50,7 +50,7 @@ TEST
 
 ### GRADES
 | Course Name                               | Score | GPA | Unit |
-|-------------------------------------------|:-----:|:---:|:----:|
+|:------------------------------------------|:-----:|:---:|-----:|
 | Engineering Statistics                    |   20  |  4  |   3  |
 | Stochastic Processes (I)                  |   20  |  4  |   3  |
 | Data Storage & Retrieval                  |   20  |  4  |   3  |
@@ -72,9 +72,9 @@ TEST
 | Differential Equations                    |  19.8 |  4  |   3  |
 | Engineering Mathematics                   |   20  |  4  |   3  |
 | BCs Project                               |   20  |  4  |   3  |
+|================================================================|
 | GPA in 20                                 | 19.33 |     |      |
 | GPA                                       |   4   |     |      |
-
 
                                                                        
 
