@@ -21,7 +21,7 @@ EDUCATION
 > **BSc in Computer Engineering** <br>
 > AmirKabir University of Technology (Tehran Polytechnic)
 > * CGPA:   Overall         18.47 / 20   
-> * CS courses   18.89 / 20 <br>
+> * Selected courses   19.33 / 20 <br>
                                                                   
 
 ACADEMIC PROJECTS
