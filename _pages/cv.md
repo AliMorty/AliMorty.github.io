@@ -23,40 +23,13 @@ EDUCATION
 > * CGPA:   Overall         18.47 / 20   
 > * CS courses   18.89 / 20 <br>
                                                                   
-RESEARCH INTEREST
-======
-In general, I am interested in applied mathematics, probability and statistics. 
-I like to study how a human can **understand concepts** and how we can **encode knowledge** in computers so they can infer like a human. Now, with the growth of Deep Learning Systems, I am really interested in understanding what **really** Deep Neural Networks learn! 
-I am also interested in how we can develop a **mechanism** to guarantee that computers will be safe for human species. <br>
-My research interest is:
-*	Statistical Machine Learning
-*	Probabilistic Models
-*	Deep Neural Networks
-*	Optimization
-*	Probabilistic Graphical Model
-*	Reinforcement Learning
-*	Game Theory
-* Natural Language Processing
 
 ACADEMIC PROJECTS
 ======
-> **Image Denoising and Segmentation Using Markov Random Field** [GitHub](https://github.com/AliMorty/Markov-Random-Field-Project)
-> * Optimizing Energy Function using Simulated Annealing, Comparing different Color Spaces results <br>
+  <ul>{% for post in site.projects reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-> **Text Summarization** [GitHub](https://github.com/AliMorty/Text_Summerization)
-> * Extract important sentence as a summary using page rank algorithm and word2vec. <br>
-
-> **Text Classification** [GitHub](https://github.com/AliMorty/Text-Classification)
-> * Using different metrics (mutual information, information gain, etc.) for extracting important words for document classification task <br>
-
-> **Grade prediction**
-> * Regression, Normalization, Visualization. using Python, Foundations of Data Mining <br>
-
-> **Design and implementation of a smart Pacman agent**
-> * Local search algorithms, Optimization algorithms like GA using Python, Artificial Intelligence <br>
-
-> **Implementation of a 2d strategic game with multi-player support**
-> * Multi-threading using Java, Advanced Computer Programming
 
 
 
@@ -75,11 +48,7 @@ TALKS
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
  
-FAMILIAR WITH
-======
-* **Statistical Machine Learning** (Wasserman's book: All of statistics)
-* **Probabilistic Graphical Models** (Kuller's book)
-* **Natural Languege Processing**
+
 
 TEACHING EXPERIENCE
 ======
@@ -87,7 +56,11 @@ TEACHING EXPERIENCE
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-
+FAMILIAR WITH
+======
+* **Statistical Machine Learning** (Wasserman's book: All of statistics)
+* **Probabilistic Graphical Models** (Kuller's book)
+* **Natural Languege Processing**
   
 
 
