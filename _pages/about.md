@@ -20,6 +20,18 @@ EDUCATION
 > * CGPA:   Overall         18.47 / 20   
 > * CS courses   18.89 / 20 <br>
 
+TEST
+======
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|-----------------------------|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=============================|
+| Foot1   | Foot2   | Foot3   |
+
 GRADES
 ======
 | Course Name                               | Score | GPA | Unit |
