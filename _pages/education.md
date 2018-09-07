@@ -16,14 +16,12 @@ author_profile: true
   </ul>
 </blockquote>
 
-## A test here
 
 <h2> All Grades</h2>
 <a href="https://github.com/AliMorty/AliMorty.github.io/blob/master/files/Mortazavi_All_Grades.pdf">Download All_Grades.pdf</a>
-<h2> Selected Grades</h2>
 <br>
 
-### Selected Courses
+## Selected Courses
 
 | Course Name                               | Score | GPA | Unit |
 |:------------------------------------------|:-----:|:---:|-----:|
@@ -52,10 +50,6 @@ author_profile: true
 | GPA in 20                                 | 19.33 |     |      |
 | GPA                                       |   4   |     |      |
                                                                   
-
-
-{% include My_Selected_Grades.html %}
-<h2> More information About selected courses</h2>
 
 {% for post in site.grades reversed %}
   {% include archive-single-grade.html %}
