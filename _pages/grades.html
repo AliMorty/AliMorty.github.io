@@ -6,18 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+<h2> All Grades</h2>
 <a href="https://github.com/AliMorty/AliMorty.github.io/blob/master/files/Mortazavi_All_Grades.pdf">Download All_Grades.pdf</a>
+<h2> Selected Grades</h2>
 {% include My_Selected_Grades.html %}
-## Some markdown files new change
-<div class="tip" markdown="1">
-
-Have **fun!** <br> ## HEADING 
-
-</div>
-### SIX | strip_html | strip_newlines | escape_once
-<meta itemprop="description" content="{{ ## hello <br> I am happy | markdownify  }}">
-
+<h2> More information About selected courses</h2>
 
 {% for post in site.grades reversed %}
   {% include archive-single-grade.html %}
