@@ -82,11 +82,7 @@ TALKS
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
  
-FAMILIAR WITH
-======
-* **Statistical Machine Learning** (Wasserman's book: All of statistics)
-* **Probabilistic Graphical Models** (Kuller's book)
-* **Natural Languege Processing**
+
 
 TEACHING EXPERIENCE
 ======
@@ -94,7 +90,11 @@ TEACHING EXPERIENCE
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-
+FAMILIAR WITH
+======
+* **Statistical Machine Learning** (Wasserman's book: All of statistics)
+* **Probabilistic Graphical Models** (Kuller's book)
+* **Natural Languege Processing**
   
 
 
