@@ -47,8 +47,8 @@ author_profile: true
 | Engineering Mathematics                   |   20  |  4  |   3  |
 | BCs Project                               |   20  |  4  |   3  |
 |================================================================|
-| GPA in 20                                 | 19.33 |     |      |
-| GPA                                       |   4   |     |      |
+| GPA in 20                                 | **19.33** |     |      |
+| GPA                                       |   **4 **  |     |      |
                                                                   
 
 {% for post in site.grades reversed %}
