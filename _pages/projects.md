@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: talk
 title: "Projects"
 permalink: /projects/
 author_profile: true
