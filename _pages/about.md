@@ -9,14 +9,6 @@ redirect_from:
 ---
 I am Ali Mortazavi. I have finished my undergraduate studies in Computer Science at [CEIT department](http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en) of [AmirKabir University of Technology](http://aut.ac.ir/aut/).
 <br> 
----
-permalink: /markdown/
-title: "Markdown"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
----
 
 ## Locations of key files/directories
 
