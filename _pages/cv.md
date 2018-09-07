@@ -40,6 +40,13 @@ My research interest is:
 
 ACADEMIC PROJECTS
 ======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+
+ACADEMIC PROJECTS
+======
 > **Image Denoising and Segmentation Using Markov Random Field** [GitHub](https://github.com/AliMorty/Markov-Random-Field-Project)
 > * Optimizing Energy Function using Simulated Annealing, Comparing different Color Spaces results <br>
 
