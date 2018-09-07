@@ -188,6 +188,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  
 
 
 # Defaults
@@ -269,6 +270,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true    
+   # _CV
+  - scope:
+      path: ""
+      type: cv
+    values:
+      layout: talk
+      author_profile: true
+      share: true  
 
 
 # Sass/SCSS
