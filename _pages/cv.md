@@ -1,7 +1,7 @@
 ---
-permalink: /
-title: "WELCOME!"
-excerpt: "About me"
+permalink: /education/
+title: "CV"
+excerpt: "More about me"
 author_profile: true
 redirect_from: 
   - /about/
