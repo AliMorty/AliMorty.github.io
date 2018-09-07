@@ -1,14 +1,9 @@
 ---
-layout: grade
+layout: talk
 title: "Education"
 permalink: /grades/
 author_profile: true
 ---
-
-
-
-
-
 
 <blockquote>
   <p><strong>BSc in Computer Engineering</strong> <br>
@@ -21,6 +16,7 @@ author_profile: true
   </ul>
 </blockquote>
 
+## A test here
 
 <h2> All Grades</h2>
 <a href="https://github.com/AliMorty/AliMorty.github.io/blob/master/files/Mortazavi_All_Grades.pdf">Download All_Grades.pdf</a>
