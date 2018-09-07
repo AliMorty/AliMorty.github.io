@@ -170,7 +170,7 @@ kramdown:
 
 # Collections
 collections:
-  grades:
+  education:
     output: true
     permalink: /:collection/:path/
   teaching:
@@ -245,7 +245,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _grades
+  # _education
   - scope:
       path: ""
       type: grades
