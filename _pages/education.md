@@ -45,7 +45,7 @@ author_profile: true
 | Math. (II)                                |   19  |  4  |   3  |
 | Differential Equations                    |  19.8 |  4  |   3  |
 | Engineering Mathematics                   |   20  |  4  |   3  |
-| BCs Project                               |   20  |  4  |   3  |
+| BSc Project                               |   20  |  4  |   3  |
 |================================================================|
 | GPA in 20                                 | **19.33** |     |      |
 | GPA                                       |   **4**  |     |      |
