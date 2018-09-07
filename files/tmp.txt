@@ -1,0 +1,20 @@
+ACADEMIC PROJECTS
+======
+> **Image Denoising and Segmentation Using Markov Random Field** [GitHub](https://github.com/AliMorty/Markov-Random-Field-Project)
+> * Optimizing Energy Function using Simulated Annealing, Comparing different Color Spaces results <br>
+
+> **Text Summarization** [GitHub](https://github.com/AliMorty/Text_Summerization)
+> * Extract important sentence as a summary using page rank algorithm and word2vec. <br>
+
+> **Text Classification** [GitHub](https://github.com/AliMorty/Text-Classification)
+> * Using different metrics (mutual information, information gain, etc.) for extracting important words for document classification task <br>
+
+> **Grade prediction**
+> * Regression, Normalization, Visualization. using Python, Foundations of Data Mining <br>
+
+> **Design and implementation of a smart Pacman agent**
+> * Local search algorithms, Optimization algorithms like GA using Python, Artificial Intelligence <br>
+
+> **Implementation of a 2d strategic game with multi-player support**
+> * Multi-threading using Java, Advanced Computer Programming
+
