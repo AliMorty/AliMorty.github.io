@@ -7,12 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Ali Mortazavi. I have finished my undergraduate studies in Computer Science at [CEIT department](http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en) of [AmirKabir University of Technology](http://aut.ac.ir/aut/).
-<br> 
-
-
-
-
+[CV.pdf](https://github.com/AliMorty/AliMorty.github.io/blob/master/files/Ali_Mortazavi_CV.pdf)
 
 
 
