@@ -15,12 +15,9 @@ author_profile: true
   <li>Selected courses   19.33 / 20 <br></li>
   </ul>
 </blockquote>
-
+## All Grades
 Download [All_Grades.pdf](https://github.com/AliMorty/AliMorty.github.io/blob/master/files/Ali_Mortazavi_CV.pdf), [All_Grades.xlsx](https://github.com/AliMorty/AliMorty.github.io/blob/master/files/Ali_Mortazavi_Grades.xlsx)
-<br>
-<h2> All Grades</h2>
-<a href="https://github.com/AliMorty/AliMorty.github.io/blob/master/files/Mortazavi_All_Grades.pdf">Download All_Grades.pdf</a>
-<br>
+
 
 ## Selected Courses
 
