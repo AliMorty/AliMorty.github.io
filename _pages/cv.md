@@ -15,8 +15,8 @@ EDUCATION
 ======
 > **BSc in Computer Engineering** <br>
 > AmirKabir University of Technology (Tehran Polytechnic)
-> * CGPA:   Overall         18.47 / 20   
-> * Selected courses   19.33 / 20 <br>
+> * [CGPA]():   Overall         18.47 / 20 (3.78/4)
+> * [Selected courses](https://alimorty.github.io//education/)   19.33 / 20 (4/4) <br>
                                                                   
 
 ACADEMIC PROJECTS
