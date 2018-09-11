@@ -24,7 +24,7 @@ RESEARCH INTEREST
 In general, I am interested in applied mathematics, probability and statistics. 
 I like to study how a human can understand concepts in a sequential manner and how we can **encode knowledge** in computers so they can infer like a human. Now, with the growth of Deep Learning Systems, I am really interested studying the **properties** of this networks and understanding what really Deep Neural Networks learn! 
 I am also interested in how we can add some mechanism that **guaranty** that computers will be safe for human species.<br>
-My research interest is:
+My research interest is: <br>
 *	Statistical Machine Learning
 *	Probabilistic Models
 *	Deep Neural Networks
