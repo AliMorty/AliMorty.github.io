@@ -21,7 +21,7 @@ EDUCATION
 
 ACADEMIC PROJECTS
 ======
-  <ul>{% for post in site.projects reversed %}
+  <ul>{% for post in site.projects  %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
