@@ -50,6 +50,11 @@ Download [All_Grades.pdf](https://github.com/AliMorty/AliMorty.github.io/blob/ma
 | GPA                                       |   **4**  |     |      |
                                                                   
 
+																  
+																  
+																  
+## More information about some courses
+<ul>
 {% for post in site.grades reversed %}
   {% include archive-single-talk.html %}
-{% endfor %}
+{% endfor %}</ul>
