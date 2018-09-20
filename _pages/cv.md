@@ -15,7 +15,7 @@ EDUCATION
 ======
 > **BSc in Computer Engineering** <br>
 > AmirKabir University of Technology (Tehran Polytechnic)
-> * [CGPA](https://github.com/AliMorty/AliMorty.github.io/blob/master/files/Ali_Mortazavi_CV.pdf):   Overall         18.47 / 20 (3.78/4)
+> * [CGPA](https://github.com/AliMorty/AliMorty.github.io/blob/master/files/Mortazavi_All_Grades.pdf):   Overall         18.47 / 20 (3.78/4)
 > * [Selected courses](https://alimorty.github.io//education/)   19.33 / 20 (4/4) <br>
                                                                   
 
