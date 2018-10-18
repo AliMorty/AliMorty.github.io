@@ -28,7 +28,6 @@ My research interest is: <br>
 
 *	Statistical Machine Learning
 *	Deep Neural Networks Robustness
-*	Deep Neural Networks
 *	Optimization
 *	Mechanism Design in Game Theory
 *	Encoding sequential information in Natural Language Processing
