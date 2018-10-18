@@ -27,7 +27,7 @@ I am also interested in how we can add some mechanism that guaranty that compute
 My research interest is: <br>
 
 *	Statistical Machine Learning
-*	Generalization in Deep Neural Networks
+*	Deep Neural Networks Robustness
 *	Deep Neural Networks
 *	Optimization
 *	Mechanism Design in Game Theory
