@@ -8,4 +8,4 @@ date: 2017-01-01
 location: "Tehran, Iran"
 ---
 
-Solving some example questions for **Theory of Computation** (from Siubser's Book) and **Algorithm Design** from CLRS in multiple sessions.
+Solving some example questions for **Theory of Computation** (from Sibser's Book) and **Algorithm Design** from CLRS in multiple sessions.
