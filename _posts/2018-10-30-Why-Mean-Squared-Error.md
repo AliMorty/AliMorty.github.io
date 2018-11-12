@@ -34,7 +34,7 @@ I think we should think about Noise independent of X and I would present a reaso
 #### My Reason
 Suppose the knowing X=a is determinor of the distribution of each of the noises, so we have a probabilistic graphical model like this:
 
-THE IMAGE OF GRAPHICAL MODEL
+![graphical model](https://raw.githubusercontent.com/AliMorty/AliMorty.github.io/master/images/3.bmp)
 
 Having this model, factor1 and factor2 are dependent to each other. Because knowing factor1 can draw information about X and by having information about X, we would have information about factor2. But this contradicts with our independency assumption. 
 
@@ -76,7 +76,7 @@ $ P (X,Y|a,b, \sigma) \propto  \displaystyle\prod_{i=1}^{m} Y(X_i|a,b,\sigma)=
 (\frac {1}{\sqrt{2\pi\sigma}})^n \exp (\displaystyle\sum_{i=1}^{m} (- \frac{(x_i-\mu_{x_i})^2}{2 \sigma^2}) =
 $
 
-Logarithm Function is increasing in ${\rm I\!R^+}$ so we can maximize $log( P (X,Y|a,b, \sigma))$ instead. (It is easier for calculating)
+Logarithm Function is increasing in R so we can maximize $ log( P (X,Y|a,b, \sigma)) $ instead. (It is easier for calculating)
 
 $ \log (P (X,Y|a,b, \sigma)) = -n \log (\sigma) +   \displaystyle\sum_{i=1}^{m} (- \frac{(x_i-\mu_{x_i})^2}{2 \sigma^2}) = 
 -n \log (\sigma) +  \frac {1}{2 \sigma^2} \displaystyle\sum_{i=1}^{m} - (x_i-{(a.x_i+b)})^2$
