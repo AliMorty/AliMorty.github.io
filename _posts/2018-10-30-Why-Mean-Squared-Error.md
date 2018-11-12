@@ -1,5 +1,5 @@
 
-# Why Mean Squared Error? 
+
 For me, a question arises when people use **MSE** as a objective function for their learning tasks. The question is: **WHY??** But if you ask this question you probably get answers such as: 
 1. Since it works well on this dataset!
 2. Because we want to give more penalty for bad predictions (in comparision with l1-norm)
