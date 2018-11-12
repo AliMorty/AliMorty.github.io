@@ -76,7 +76,7 @@ $ P (X,Y|a,b, \sigma) \propto  \displaystyle\prod_{i=1}^{m} Y(X_i|a,b,\sigma)=
 (\frac {1}{\sqrt{2\pi\sigma}})^n \exp (\displaystyle\sum_{i=1}^{m} (- \frac{(x_i-\mu_{x_i})^2}{2 \sigma^2}) 
 $
 <br>
-Logarithm Function is increasing in R so we can maximize $ log( P (X,Y|a,b, \sigma)) $ instead. (It is easier for calculating)
+Logarithm Function is increasing in positive R so we can maximize $ log( P (X,Y|a,b, \sigma)) $ instead. (It is easier for calculating)
 <br>
 $ \log (P (X,Y|a,b, \sigma)) = -n \log (\sigma) +   \displaystyle\sum_{i=1}^{m} (- \frac{(x_i-\mu_{x_i})^2}{2 \sigma^2}) = 
 -n \log (\sigma) +  \frac {1}{2 \sigma^2} \displaystyle\sum_{i=1}^{m} - (x_i-{(a.x_i+b)})^2$
