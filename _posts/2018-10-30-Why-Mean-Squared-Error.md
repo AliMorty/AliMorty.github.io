@@ -31,7 +31,7 @@ Here we suppose that in each point X=a, there are k independent factors. Now the
 Have these k independent factors different distribution in different Xs? Is the noise independent of the X or not? <br>
 I think we should think about Noise independent of X and I would present a reason here. 
 
-#### My Reason
+### My Reason
 Suppose the knowing X=a is determinor of the distribution of each of the noises, so we have a probabilistic graphical model like this:
 
 ![graphical model](https://raw.githubusercontent.com/AliMorty/AliMorty.github.io/master/images/3.bmp)
