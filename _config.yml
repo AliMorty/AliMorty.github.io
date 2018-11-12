@@ -191,6 +191,9 @@ collections:
   awards:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -276,6 +279,14 @@ defaults:
   - scope:
       path: ""
       type: cv
+    values:
+      layout: talk
+      author_profile: true
+      share: true  
+   # _posts
+  - scope:
+      path: ""
+      type: post
     values:
       layout: talk
       author_profile: true
