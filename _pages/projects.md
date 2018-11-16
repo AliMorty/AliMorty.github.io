@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+Some of my projects are listed here. The first three projects have reports in their Github Links. For more information, click on them. 
+
 {% for post in site.projects %}
   {% include archive-project.html %}
 {% endfor %}
