@@ -3,7 +3,7 @@ For me, a question arises when people use **MSE** as a objective function for th
 2. Because we want to give more penalty for bad predictions (in comparision with l1-norm)
 3. Computating the derivation of MSE is simple (in comparision with l1-norm) <br>
 
-These reasons do not convince me. For the first reason we can say: "ok! It works well but maybe there are some better choices." For the second and third reasons we can say: "there is other alternative for giving penalty for bad predictions (such as l-4) with easy computations."<br> <br>
+These reasons do not convince me. For the first reason we can say: "ok! It works well but maybe there are some better choices." For the second and third reasons we can say: "there is other alternative for giving penalty for bad predictions (such as l4-norm) with easy computations."<br> <br>
 But fortunately I found one reason (for particular situation) in Wasserman's "All of statistics" that makes me a little calmer! For other students not interested in the above reasons, I want to share this post to hopefully help them to be calmer. <br>
 The book states that in linear regression with normal noise if we want to use Maximum Likelihood to learn parameter, it is the same as minimizing the MSE. <br>
 First, let's define linear regression.<br>
