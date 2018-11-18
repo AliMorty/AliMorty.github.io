@@ -56,7 +56,9 @@ Download [All_Grades.pdf](https://github.com/AliMorty/AliMorty.github.io/blob/ma
 ## More information about some courses
 In the Artificial Intelligence, Stocahstic Process, Algorithm Desing, Advanced Topic In Algorithm Design and Theory of Machines and Languages courses, I have got the dintictive highest grade class. <br>
 
-
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 
 {% for post in site.grades reversed %}
