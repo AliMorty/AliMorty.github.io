@@ -22,8 +22,8 @@ EDUCATION
 RESEARCH INTEREST
 ======
 In general, I am interested in applied mathematics, probability and statistics. <br>
-Now, with the growth of Deep Learning Systems, I am really interested in studying the properties of these networks and understanding what really Deep Neural Networks learn! With these number of parameters in a deep network, does it actually learn or memorize? How can we make them robust to the adversarial noises to learn and percept like a human? <br>
-I am also interested in how we can add some mechanism that guaranty that computers will be safe for human species.<br>
+Now, with the growth of Deep Learning Systems, I am really interested in studying the properties of these networks and understanding what really Deep Neural Networks learn! With the high number of parameters in a deep network, does it actually learn or memorize? How can we make them robust to the adversarial noises? <br>
+I am also interested to find a mechanism that guarantees that computers will be safe for human species. <br>
 My research interests are: <br>
 
 *	Statistical Machine Learning
