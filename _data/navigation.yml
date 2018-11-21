@@ -22,6 +22,7 @@ main:
    
   - title: "Posts"
     url: /posts/
-    
+  - title: "contact"
+    url: /contact/ 
     
 
