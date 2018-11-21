@@ -11,10 +11,10 @@ Email Address:
 > ali_mortazavi@aut.ac.ir <br>
 > mortazavi.ali1994@gmail.com <br>
 <br>
-Skype:
+Skype: <br>
 > ali.morty
 <br>
-Tell:
+Tell:<br>
 > (+98) 937 146 2838
 <br>
 [Linked-in](https://www.linkedin.com/in/ali-mortazavi-889b1788/)
