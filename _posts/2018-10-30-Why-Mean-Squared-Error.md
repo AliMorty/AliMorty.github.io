@@ -68,9 +68,9 @@ $ P (X,Y|a,b, \sigma) = \displaystyle\prod_{i=1}^{m} P(Y_i , X_i) = \displaystyl
 $ 
 \displaystyle\prod_{i=1}^{m} P(X_i) \displaystyle\prod_{i=1}^{m} Y(X_i|a,b,\sigma) = L1 * \displaystyle\prod_{i=1}^{m} Y(X_i|a,b,\sigma)
 $
-
+<br>
 We want to find $ (a,b,\sigma)$ that maximize the above probability. Since L1 is is not a function of $ (a,b,\sigma)$  our parameters, we omit it and maximize the remaining part.
-
+<br>
 $ P (X,Y|a,b, \sigma) \propto  \displaystyle\prod_{i=1}^{m} Y(X_i|a,b,\sigma)=
 \displaystyle\prod_{i=1}^{m} Normal (a.X_i+b, \sigma^2 ) = $ <br>
 $ = 
