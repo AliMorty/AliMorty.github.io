@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Email Address: 
+Email Address: <br>
 > ali_mortazavi@aut.ac.ir <br>
 > mortazavi.ali1994@gmail.com <br>
 <br>
