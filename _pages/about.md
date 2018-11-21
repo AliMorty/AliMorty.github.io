@@ -21,9 +21,9 @@ EDUCATION
                                                                   
 RESEARCH INTEREST
 ======
-In general, I am interested in applied mathematics, probability and statistics. I am also interested in algorithm design. <br>
-I am interested in methods to guarantee the performance of model or finding a bound for performance of systems. With the growth of Deep Neural Networks, I am interested in research related to generalization in Deep Neural Networks. <br>
-I am also interested to find a mechanism similar to mechanisms found in Game Theory to assure computers will be safe for human species. <br>
+In general, I am interested in applied mathematics, probability and statistics. I am also interested in algorithm design. 
+I am interested in finding an upper or a lower bound for the performance of a model. With the growth of Deep Neural Networks, I am also interested in research related to generalization in Deep Neural Networks. <br>
+On the other hand, I am interested in Game Theory and specifically mechanism design. I think It should be exciting (and probably hard) to find a mechanism to assure computers will be safe for human species but it is worth trying. <br>
 My research interests are: <br>
 
 *	Statistical Machine Learning
