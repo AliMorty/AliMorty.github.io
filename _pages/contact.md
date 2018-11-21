@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 Email Address: 
-> ali_mortazavi@aut.ac.ir 
-> mortazavi.ali1994@gmail.com
+> ali_mortazavi@aut.ac.ir <br>
+> mortazavi.ali1994@gmail.com <br>
 <br>
 Skype:
 > ali.morty
