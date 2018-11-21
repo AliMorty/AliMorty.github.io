@@ -71,15 +71,17 @@ $
 We want to find $ (a,b,\sigma)$ that maximize the above probability. Since L1 is is not a function of $ (a,b,\sigma)$  our parameters, we omit it and maximize the remaining part.
 
 $ P (X,Y|a,b, \sigma) \propto  \displaystyle\prod_{i=1}^{m} Y(X_i|a,b,\sigma)=
-\displaystyle\prod_{i=1}^{m} Normal (a.X_i+b, \sigma^2 ) =
+\displaystyle\prod_{i=1}^{m} Normal (a.X_i+b, \sigma^2 ) = $ <br>
+$ = 
 \displaystyle\prod_{i=1}^{m} \frac {1}{\sqrt{2\pi\sigma}} \exp(- \frac{(x_i-\mu_{x_i})^2}{2 \sigma^2}) =
 (\frac {1}{\sqrt{2\pi\sigma}})^n \exp (\displaystyle\sum_{i=1}^{m} (- \frac{(x_i-\mu_{x_i})^2}{2 \sigma^2}) 
 $
 <br>
 Logarithm Function is increasing in positive R so we can maximize $ log( P (X,Y|a,b, \sigma)) $ instead. (It is easier for calculating)
 <br>
-$ \log (P (X,Y|a,b, \sigma)) = -n \log (\sigma) +   \displaystyle\sum_{i=1}^{m} (- \frac{(x_i-\mu_{x_i})^2}{2 \sigma^2}) = 
--n \log (\sigma) +  \frac {1}{2 \sigma^2} \displaystyle\sum_{i=1}^{m} - (x_i-{(a.x_i+b)})^2$
+$ \log (P (X,Y|a,b, \sigma)) = -n \log (\sigma) +   \displaystyle\sum_{i=1}^{m} (- \frac{(x_i-\mu_{x_i})^2}{2 \sigma^2}) = $
+<br> 
+$ = -n \log (\sigma) +  \frac {1}{2 \sigma^2} \displaystyle\sum_{i=1}^{m} - (x_i-{(a.x_i+b)})^2$
 
 As we can see, for every $\sigma$, the maximum value of the above equation happens when the MSE is minimized. <br>
 So we can say this is one reason why it is meaningful to use MSE in a lot of different applications. At least when we want to use a linear regression model.
