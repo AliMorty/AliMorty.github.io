@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Email Address: <br>
+#### Email Address: <br>
 * ali_mortazavi@aut.ac.ir 
 * mortazavi.ali1994@gmail.com <br>
-<br> Skype: ali.morty <br>
-Tell: (+98) 937 146 2838 <br>
-[Linked-in Link](https://www.linkedin.com/in/ali-mortazavi-889b1788/)
+<br> 
+#### Skype: ali.morty <br>
+#### Tell: (+98) 937 146 2838 <br>
+#### [Linked-in Link](https://www.linkedin.com/in/ali-mortazavi-889b1788/)
 
 
 
