@@ -14,7 +14,7 @@ redirect_from:
 <br>
 #### Skype: ali.morty <br>
 #### Tell: (+98) 937 146 2838 <br>
-#### [Linked-in Link](https://www.linkedin.com/in/ali-mortazavi-889b1788/)
+
 
 
 
