@@ -89,4 +89,5 @@ So we can say this is one reason why it is meaningful to use MSE in a lot of dif
 
 # Conclusion
 Using a probabilistic view, we tried to represent a reason why it is meaningful to use MSE in one specific task. <br>
-We can conclude that MSE is important because Central Limit Theorem is talking about normal distribution and the normal distribution is a distribution in which points with less quadratic distance to their mean are more probable. <br>
+We can conclude that MSE is important because Central Limit Theorem is talking about normal distribution in which points with less quadratic distance to their mean are more probable. <br>
+So for further understanding, we can continue our story through the proof of Central Limit Theorem. <br>
