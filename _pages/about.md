@@ -27,7 +27,7 @@ On the other hand, I am interested in Game Theory and specifically mechanism des
 My research interests are: <br>
 
 *	Statistical Machine Learning
-*	Deep Neural Networks Robustness
+*	Generalization in Deep Neural Networks 
 *	Optimization
 *	Mechanism Design in Game Theory
 *	Encoding sequential information in Natural Language Processing
