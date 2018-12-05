@@ -19,12 +19,6 @@ EDUCATION
 > * [Selected courses](https://alimorty.github.io//education/)   19.33 / 20 (4/4) <br>
                                                                   
 
-ACADEMIC PROJECTS
-======
-  <ul>{% for post in site.projects  %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 
 
 
@@ -36,6 +30,17 @@ RESEARCH EXPERIENCES
 > In this project, we tested the performance of two different heuristic approaches to solve an NP-Complete Problem. This problem is an extended version of the Travelling Salesman Problem. Since our approach is heuristic, there is no guaranty to find a global optimum answer. So we needed some other exact approach for computing the global optimum. For this purpose, we reduced our problem to an Integer Linear Programming Instance. So in small graph samples, we could compare our results with the optimum solution and for the large graph samples, we just compared our two different methods with each other.  
 
 
+ACADEMIC PROJECTS
+======
+  <ul>{% for post in site.projects  %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+HONORS AND AWARDS
+======
+  <ul>{% for post in site.awards  %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 TALKS
 ======
@@ -50,7 +55,14 @@ TEACHING EXPERIENCE
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
- 
+
+
+LANGUAGE
+======
+* **TOEFL** 99 (Reading:23, Listening:28, Speaking:23, Writing: 25)
+* **GRE General** 317: (Quantitative: 167, Verbal: 150)
+
+  
 FAMILIAR WITH
 ======
 * **Statistical Machine Learning** (Wasserman's book: All of statistics)
