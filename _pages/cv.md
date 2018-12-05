@@ -59,8 +59,8 @@ TEACHING EXPERIENCE
 
 LANGUAGE
 ======
-* **TOEFL** 99 (Reading:23, Listening:28, Speaking:23, Writing: 25)
-* **GRE General** 317: (Quantitative: 167, Verbal: 150)
+* **TOEFL** 99 (Reading: 23, Listening: 28, Speaking: 23, Writing: 25)
+* **GRE General** 317 (Quantitative: 167, Verbal: 150)
 
   
 FAMILIAR WITH
