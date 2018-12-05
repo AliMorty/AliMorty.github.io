@@ -54,7 +54,7 @@ Download [Transcript.pdf](https://github.com/AliMorty/AliMorty.github.io/raw/mas
 																  
 																  
 ## More information about some courses
-In the **Artificial Intelligence**, **Stocahstic Process**, **Algorithm Desing**, **Advanced Topics In Algorithm Design**, and **Theory of Machines and Languages courses**, I have got the dintictive highest grade class. <br>
+In the **Artificial Intelligence**, **Stocahstic Process**, **Algorithm Desing**, **Advanced Topics In Algorithm Design**, and **Theory of Machines and Languages courses**, I have got the dintictive highest grade in the class. <br>
 
 {% include base_path %}
 
