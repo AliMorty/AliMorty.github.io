@@ -30,7 +30,7 @@ My research interests are: <br>
 *	Generalization in Deep Neural Networks 
 *	Optimization
 *	Mechanism Design in Game Theory
-*	Encoding sequential information in Natural Language Processing
+
 
 
 
