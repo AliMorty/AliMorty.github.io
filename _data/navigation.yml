@@ -1,11 +1,8 @@
 # main links links
 main:
 
-    
   - title: "Projects"
     url: /projects/
-   
-  
 
   - title: "Teaching"
     url: /teaching/    
@@ -26,7 +23,6 @@ main:
     url: /posts/
     
   - title: "Contact"
-    url: /contact/ 
-     
+    url: /contact/  
     
 
