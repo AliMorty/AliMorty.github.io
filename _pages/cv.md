@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[CV.pdf](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/Ali_Mortazavi_CV.pdf)
+[Download](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/Ali_Mortazavi_CV.pdf) my CV.pdf 
 
 
 
