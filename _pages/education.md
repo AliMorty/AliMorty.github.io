@@ -17,7 +17,7 @@ author_profile: true
 </blockquote>
 
 <h2> All Grades</h2>
-Download [Transcript.pdf](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/Transcript_Ali_Mortazavi.pdf), [Categorized Grades list.html](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/mortazavi-grade.html), [Categorized Grades List.xlsx](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/Ali_Mortazavi_Grades.xlsx)
+Download [Transcript.pdf](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/Transcript_Ali_Mortazavi.pdf), [Categorized Grades List.xlsx](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/Ali_Mortazavi_Grades.xlsx)
 
 
 ## Selected Courses
