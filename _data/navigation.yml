@@ -5,8 +5,7 @@ main:
   - title: "Projects"
     url: /projects/
    
-  - title: "Talks"
-    url: /talks/    
+  
 
   - title: "Teaching"
     url: /teaching/    
@@ -16,13 +15,18 @@ main:
 
   - title: "Awards"
     url: /awards/
+   
+  - title: "Talks"
+    url: /talks/  
     
   - title: "CV"
     url: /cv/
    
   - title: "Posts"
     url: /posts/
+    
   - title: "Contact"
     url: /contact/ 
+     
     
 
