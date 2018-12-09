@@ -5,5 +5,5 @@ venue: "AmirKabir University, Mathematics and Computer Science Department"
 date: 2015-01-01
 location: "Tehran, Iran"
 ---
-I was allowed to participate in Mathematics Team Selection Exam. I got the highest score. But because I was not a member of department of Mathematics and Computer Science, I was not allowed to be in the team.
+I was allowed to participate in Mathematics Team Selection Exam. I got the highest score. Unfortunately, Since I was not a student of the Mathematics Department, I was not allowed to continue the competition as a team member.
 
