@@ -1,9 +1,9 @@
-For me, a question arises when people use **MSE** as an objective function for their learning tasks. The question is: **WHY??** But if you ask this question you probably get answers such as: 
+For me, a question arises when people use **MSE** as an objective function for their learning tasks. The question is: **WHY??** Why?? But when you ask this question you probably get answers like: 
 1. Since it works well on this dataset!
 2. Because we want to give more penalty for bad predictions (in comparison with l1-norm)
 3. Computing the derivation of MSE is simple (in comparison with l1-norm) <br>
 
-To be honest, these reasons do not convince me. For the first reason, we can say: "ok! It works well but maybe there are some better choices." For the second and third reasons we can say: "there is another alternative for giving a penalty for a bad prediction (such as l4-norm) with easy computations."<br> <br>
+To be honest, The above reasons don’t convince me. In response to the first one we can say "ok it works well but there could be better choices" For the second and third reasons we can say: "there is another alternative for giving a penalty for a bad prediction (such as l4-norm) with easy computations."<br> <br>
 But fortunately, I found one reason (for a particular situation) in Wasserman's "All of statistics" that makes me more relaxed! For other people not interested in the above reasons, I want to share this post to hopefully help them to be relaxed. <br>
 The book states that in linear regression with normal noise if we want to use Maximum Likelihood to learn parameter, it is the same as minimizing the MSE. <br>
 First, let's define linear regression.<br>
