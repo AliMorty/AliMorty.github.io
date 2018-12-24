@@ -19,7 +19,7 @@ $ Y(x) = a.x + b + Noise(x)
 $
 
 There are different ways to find (a,b). In one way, we can think about (a,b) as random variables and we want to know which setting of (a,b) is the most likely one.<br>
-We also have to consider the noise as a random variable so we have to assign a distribution for the noise. We can imagine there are k independent unknown factors with different unknown distribution affecting cumulatively the Y. Because there are a lot of different small factors (k > 30), there is a more general theorem than Central Limit Theorem which states that:
+We also have to consider the noise as a random variable so we have to assign a distribution for the noise. We can imagine there are k independent unknown factors with different unknown distribution cumulatively affecting the Y. Because there are a lot of different small factors (k > 30), there is a more general theorem than Central Limit Theorem which states that:
 > No matter if series of factors have the same distribution or not, (when our factors are small enough and have some specific properties) the distribution of their sum converges in distribution to **Normal distribution**. <br> <br> 
 
 So when we have $ X = a $ ,our noise has the distribution like this: 
@@ -27,8 +27,8 @@ So when we have $ X = a $ ,our noise has the distribution like this:
 $ PDF_{noise(X=a)}(x) = Normal(x,   \mu_{X=a} , \sigma_{X=a} )
 $
 
-Here we suppose that in each point X=a, there are k independent factors. Now there is a question: <br>
-Have these k independent factors different distribution in different Xs? Is the noise independent of the X or not? <br>
+Here we suppose that in each point X=a, there are k independent factors. Now there is this question: <br>
+Do these k independent factors have different distributions in different Xs? Is the noise independent of the X or not? <br>
 I think we should think about Noise independent of X and I would present a reason here. 
 
 ### My Reason

@@ -29,6 +29,11 @@ RESEARCH EXPERIENCES
 > Under the supervision of [Dr. Razazi](http://ceit.aut.ac.ir/~razzazi/)  at Amirkabir University of Technology <br>
 > In this project, we tested the performance of two different heuristic approaches to solve an NP-Complete Problem. This problem is an extended version of the Travelling Salesman Problem. Since our approach is heuristic, there is no guaranty to find a global optimum answer. So we needed some other exact approach for computing the global optimum. For this purpose, we reduced our problem to an Integer Linear Programming Instance. So in small graph samples, we could compare our results with the optimum solution and for the large graph samples, we just compared our two different methods with each other.  
 
+HONORS AND AWARDS
+======
+  <ul>{% for post in site.awards  %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 ACADEMIC PROJECTS
 ======
@@ -36,11 +41,7 @@ ACADEMIC PROJECTS
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-HONORS AND AWARDS
-======
-  <ul>{% for post in site.awards  %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
 
 TALKS
 ======
@@ -67,6 +68,7 @@ FAMILIAR WITH
 ======
 * **Statistical Machine Learning** (Wasserman's book: All of statistics)
 * **Probabilistic Graphical Models** (Kuller's book)
+* **Game Theory**
 * **Natural Languege Processing**
   
 
