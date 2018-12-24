@@ -24,9 +24,9 @@ RESEARCH INTEREST
 In general, I am interested in using mathematical objects to model a phenomenon and then finding theorem to describe it. I am also interested in finding the relationship between different problems. (e.g. reducing NP-Complete Problems to each other) In particular, I am interested in **learning theory** and **game theory**. Learning theory because I am interested in providing theories about using data, in an uncertain environment, to make an inference about a phenomenon in a precise way. On the other hand, game theory because I like to think about objects (especially humans) as selfish agents in a game, to predict their possible behaviors. I am also interested in designing mechanism to make a guarantee about the behavior of agents. <br>
 My research interests are: <br>
 
-*	Statistical Machine Learning
-*	Generalization in Deep Neural Networks 
+*	Statistical Machine Learning 
 *	Optimization
+*	Sequential Prediction
 *	Mechanism Design in Game Theory
 
 
