@@ -29,7 +29,7 @@ $
 
 Here we suppose that in each point X=a, there are k independent factors. Now there is this question: <br>
 Do these k independent factors have different distributions in different Xs? Is the noise independent of the X or not? <br>
-I think we should think about Noise independent of X and I would present a reason here. 
+I think we should take time and think about the noise being independent of the X and I’m going to present a reason for it here.
 
 ### My Reason
 Suppose the knowing X=a is determiner of the distribution of each of the noises, so we have a probabilistic graphical model like this:
@@ -61,7 +61,7 @@ $
 For finding the most probable configuration, we Use Maximum Likelihood Estimation. 
 
 ## Maximum Likelihood Estimation
-Maximum likelihood estimation is a method used for finding most likely parameters setting that can generate samples data. If we have m samples $(X_i, Y_i)$, and parameter $a, b $ then, we can calculate the probability of observation of data: 
+Maximum likelihood estimation is a method used for finding the most likely parameters setting that can generate data samples. If we have m samples $(X_i, Y_i)$, and parameter $a, b $ then, we can calculate the probability of observation of data: 
 
 $ P (X,Y|a,b, \sigma) = \displaystyle\prod_{i=1}^{m} P(Y_i , X_i) = \displaystyle\prod_{i=1}^{m} P(X_i) P(Y_i | X_i) =
 \displaystyle\prod_{i=1}^{m} P(X_i) \displaystyle\prod_{i=1}^{m} P(Y_i | X_i) = $ <br>
@@ -69,7 +69,7 @@ $
 \displaystyle\prod_{i=1}^{m} P(X_i) \displaystyle\prod_{i=1}^{m} Y(X_i|a,b,\sigma) = L1 * \displaystyle\prod_{i=1}^{m} Y(X_i|a,b,\sigma)
 $
 <br><br>
-We want to find $ (a,b,\sigma)$ that maximize the above likelihood. Since L1 is is not a function of $ (a,b,\sigma)$  our parameters, we omit it and maximize the remaining part.
+We want to find $ (a,b,\sigma)$ that maximize the above likelihood. Since L1 is not a function of $ (a,b,\sigma)$  our parameters, we omit it and maximize the remaining part.
 <br><br>
 $ P (X,Y|a,b, \sigma) \propto  \displaystyle\prod_{i=1}^{m} Y(X_i|a,b,\sigma)=
 \displaystyle\prod_{i=1}^{m} Normal (a.X_i+b, \sigma^2 ) = $ <br>
