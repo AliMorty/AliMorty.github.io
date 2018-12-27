@@ -13,9 +13,9 @@ redirect_from:
 RELATED EXPERIENCES
 ======
 * Algorithm Design
- *  Teaching assistant in algorithm design
- *	Membership of problem designer team in AUT programming league
- *  Passed “advanced topics in algorithms” course with the highest score among students of our class.
+   *  Teaching assistant in algorithm design
+   *	Membership of problem designer team in AUT programming league
+   *  Passed “advanced topics in algorithms” course with the highest score among students of our class.
 
 * Item 2
 * Item 3
