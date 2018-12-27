@@ -19,6 +19,7 @@ RELATED EXPERIENCES
 
 *	Statistical Machine Learning
    *  Passed related courses with distinctive qualifications such as **Stochastic Process**, **Data Mining** and audited **Statistical Machine Learning**, and **Probabilistic Graphical Models**.
+   *  Teaching Assistant in [probability and statistics](https://alimorty.github.io//teaching/2018-spring-teaching-1)
 * Item 3
     * Item 3a
     * Item 3b
