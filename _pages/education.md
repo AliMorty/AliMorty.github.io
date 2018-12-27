@@ -46,7 +46,7 @@ Download [Transcript.pdf](https://github.com/AliMorty/AliMorty.github.io/raw/mas
 | Computer Laboratory                       |   20  |  4  |   1  |
 | BSc Project                               |   20  |  4  |   3  |
 |================================================================|
-| GPA in 20             | **19.33** | **4** | 62 units |
+| GPA in 20             | **19.33** | **4** | |
 
                                                                   
 
