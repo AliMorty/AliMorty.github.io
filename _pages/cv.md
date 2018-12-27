@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "CV"
+title: "Experiences"
 excerpt: "More about me"
 author_profile: true
 redirect_from: 
@@ -10,14 +10,14 @@ redirect_from:
 [Download](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/Ali_Mortazavi_CV.pdf) my CV.pdf 
 
 
-
-EDUCATION
+RELATED EXPERIENCES
 ======
-> **BSc in Computer Engineering** <br>
-> AmirKabir University of Technology (Tehran Polytechnic)
-> * [CGPA](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/Mortazavi_All_Grades.pdf):   Overall         18.47 / 20 (3.78/4)
-> * [Selected courses](https://alimorty.github.io//education/)   19.33 / 20 (4/4) <br>
-                                                                  
+* Item 1
+* Item 2
+* Item 3
+    * Item 3a
+    * Item 3b
+    * Item 3c
 
 
 
