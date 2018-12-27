@@ -17,7 +17,8 @@ RELATED EXPERIENCES
    *	Membership of problem designer team in AUT programming league
    *  Passed “advanced topics in algorithms” course with the highest score among students of our class.
 
-* Item 2
+*	Statistical Machine Learning
+   *  Passed related courses with distinctive qualifications such as **Stochastic Process**, **Data Mining** and audited **Statistical Machine Learning**, and **Probabilistic Graphical Models**.
 * Item 3
     * Item 3a
     * Item 3b
