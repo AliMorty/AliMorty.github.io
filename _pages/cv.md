@@ -25,7 +25,6 @@ RELATED EXPERIENCES
 * Game Theory
     * Attended related seminars and workshop
 
-* Participated in 21st National Scientific Olympiad of Computer Engineering in Iran and ranked 19th
 
 
 
