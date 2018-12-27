@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "Resume"
+title: "Résumé"
 excerpt: "More about me"
 author_profile: true
 redirect_from: 
