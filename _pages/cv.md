@@ -13,17 +13,17 @@ redirect_from:
 RELATED EXPERIENCES
 ======
 ## Algorithm Design
-   *  Teaching assistant in [algorithm design](https://alimorty.github.io//teaching/2015-spring-teaching-1)
-   *	Membership of problem designer team in AUT programming league
-   *  Passed **advanced topics in algorithms** course with the highest score among students of our class.
+ *  Teaching assistant in [algorithm design](https://alimorty.github.io//teaching/2015-spring-teaching-1)
+ *	Membership of problem designer team in AUT programming league
+ *  Passed **advanced topics in algorithms** course with the highest score among students of our class.
 
-*	Statistical Machine Learning
-     *  Passed related courses with distinctive qualifications such as **Stochastic Process**, **Data Mining** and audited **Statistical Machine Learning**, and **Probabilistic Graphical Models**.
-     *  Teaching Assistant in [probability and statistics](https://alimorty.github.io//teaching/2018-spring-teaching-1)
-     *  Related Academic [Projects](https://alimorty.github.io//projects/)
-     *  An [article](https://alimorty.github.io//posts/2018-10-30-Why-Mean-Squared-Error/) about "When and Why we use Mean Squared Error"
-* Game Theory
-    * Attended related seminars and workshop
+## Statistical Machine Learning
+   *  Passed related courses with distinctive qualifications such as **Stochastic Process**, **Data Mining** and audited **Statistical Machine Learning**, and **Probabilistic Graphical Models**.
+   *  Teaching Assistant in [probability and statistics](https://alimorty.github.io//teaching/2018-spring-teaching-1)
+   *  Related Academic [Projects](https://alimorty.github.io//projects/)
+   *  An [article](https://alimorty.github.io//posts/2018-10-30-Why-Mean-Squared-Error/) about "When and Why we use Mean Squared Error"
+## Game Theory
+   * Attended related seminars and workshop
 
 
 
