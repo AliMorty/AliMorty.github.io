@@ -22,11 +22,10 @@ RELATED EXPERIENCES
      *  Teaching Assistant in [probability and statistics](https://alimorty.github.io//teaching/2018-spring-teaching-1)
      *  Related Academic [Projects](https://alimorty.github.io//projects/)
      *  An [article](https://alimorty.github.io//posts/2018-10-30-Why-Mean-Squared-Error/) about "When and Why we use Mean Squared Error"
-* Item 3
-    * Item 3a
-    * Item 3b
-    * Item 3c
+* Game Theory
+    * Attended related seminars and workshop
 
+* Participated in 21st National Scientific Olympiad of Computer Engineering in Iran and ranked 19th
 
 
 
@@ -48,8 +47,7 @@ ACADEMIC PROJECTS
   <ul>{% for post in site.projects  %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-
+ 
 
 TALKS
 ======
@@ -57,8 +55,6 @@ TALKS
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
  
-
-
 TEACHING EXPERIENCE
 ======
   <ul>{% for post in site.teaching %}
