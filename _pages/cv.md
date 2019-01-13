@@ -10,8 +10,8 @@ redirect_from:
  
 
 
-A BRIEF HIGHLIGHT OF MY EXPERIENCES
-======
+## A BRIEF HIGHLIGHT OF MY EXPERIENCES
+
 ### Algorithm Design
  *  Teaching assistant in algorithm design
  *	Membership of problem designer team in AUT programming league
