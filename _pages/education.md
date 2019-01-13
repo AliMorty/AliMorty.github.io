@@ -43,7 +43,7 @@ Download [Transcript.pdf](https://github.com/AliMorty/AliMorty.github.io/raw/mas
 | GPA in 20                                 |   **19.49**   |   **4**   |  39  |
 
 
-### Data and Search related Courses (Not so theoretical!) 
+### Data and Search related Courses 
 
 
 | Course Name                               | Score | GPA | Unit |
