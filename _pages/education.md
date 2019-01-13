@@ -23,6 +23,7 @@ Download [Transcript.pdf](https://github.com/AliMorty/AliMorty.github.io/raw/mas
 ## Selected Courses
 
 ### Theoretical Courses
+
 | Course Name                               | Score | GPA | Unit |
 |:------------------------------------------|:-----:|:---:|-----:|
 | Math. (I)                                 |  19.5 |  4  |   3  |
@@ -40,7 +41,11 @@ Download [Transcript.pdf](https://github.com/AliMorty/AliMorty.github.io/raw/mas
 | Principles of Compiler Design             |  18.6 |  4  |   3  |
 |================================================================|
 | GPA in 20                                 |   **19.49**   |   **4**   |  39  |
+
+
 ### Data and Search related Courses (Not so theoretical!) 
+
+
 | Course Name                               | Score | GPA | Unit |
 |:------------------------------------------|:-----:|:---:|-----:|
 | Artificial Intelligence                   |   20  |  4  |   3  |
