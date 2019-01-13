@@ -22,6 +22,7 @@ Download [Transcript.pdf](https://github.com/AliMorty/AliMorty.github.io/raw/mas
 
 ## Selected Courses
 
+### Theoretical Courses
 | Course Name                               | Score | GPA | Unit |
 |:------------------------------------------|:-----:|:---:|-----:|
 | Math. (I)                                 |  19.5 |  4  |   3  |
@@ -34,19 +35,23 @@ Download [Transcript.pdf](https://github.com/AliMorty/AliMorty.github.io/raw/mas
 | Data Struct. & Algorithms                 |   20  |  4  |   3  |
 | Design of Algorithms                      |   20  |  4  |   3  |
 | Topics in Computer Science (Algorithm II) |   20  |  4  |   3  |
+| Theory of Machines & Languages            |   20  |  4  |   3  |
+| Design of Programming Language            |   19  |  4  |   3  |
+| Principles of Compiler Design             |  18.6 |  4  |   3  |
+|================================================================|
+| GPA in 20                                 |   **19.49**   |   **4**   |  39  |
+### Data and Search related Courses (Not so theoretical!) 
+| Course Name                               | Score | GPA | Unit |
+|:------------------------------------------|:-----:|:---:|-----:|
 | Artificial Intelligence                   |   20  |  4  |   3  |
 | Foundations of Data Mining                |   19  |  4  |   3  |
 | Data Storage & Retrieval                  |   20  |  4  |   3  |
 | Principles of Database Design             |  18.4 |  4  |   3  |
-| Theory of Machines & Languages            |   20  |  4  |   3  |
-| Design of Programming Language            |   19  |  4  |   3  |
-| Principles of Compiler Design             |  18.6 |  4  |   3  |
 | Principles of Computer & Prog.            |   17  |  4  |   4  |
 | Advanced Computer Programming             |  19.5 |  4  |   3  |
-| Computer Laboratory                       |   20  |  4  |   1  |
 | BSc Project                               |   20  |  4  |   3  |
 |================================================================|
-| GPA in 20                                 |   **19.33**   |   **4**   |  62  |
+| GPA in 20                                 |   **19.03**   |   **4**   |  22  |
 
                                                                   
 
