@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[Download](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/Ali_Mortazavi_CV.pdf) my CV.pdf 
+ 
 
 
-BRIEF HIGHLIGHT 
+A BRIEF HIGHLIGHT OF MY EXPERIENCES
 ======
 ### Algorithm Design
  *  Teaching assistant in algorithm design
@@ -28,10 +28,19 @@ BRIEF HIGHLIGHT
 ### Game Theory
    * Attended related seminars and workshop
    
-### Participated in 21st National Scientific Olympiad of Computer Engineering in Iran and ranked 19th
+CV
+======
+   
+[Download](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/Ali_Mortazavi_CV.pdf) my CV.pdf
+   
+HONORS AND AWARDS
+======
+  <ul>{% for post in site.awards  %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 
-
+  
 RESEARCH EXPERIENCES
 ======
 > **Implementation and Evaluation of “Genetic” and “Simulated Annealing” Algorithms for Extended Travelling Salesman Problem** [GitHub](https://github.com/AliMorty/B.SC.-Project) <br>
@@ -39,18 +48,11 @@ RESEARCH EXPERIENCES
 > Under the supervision of [Dr. Razazi](http://ceit.aut.ac.ir/~razzazi/)  at Amirkabir University of Technology <br>
 > In this project, we tested the performance of two different heuristic approaches to solve an NP-Complete Problem. This problem is an extended version of the Travelling Salesman Problem. Since our approach is heuristic, there is no guaranty to find a global optimum answer. So we needed some other exact approach for computing the global optimum. For this purpose, we reduced our problem to an Integer Linear Programming Instance. So in small graph samples, we could compare our results with the optimum solution and for the large graph samples, we just compared our two different methods with each other.  
 
-HONORS AND AWARDS
-======
-  <ul>{% for post in site.awards  %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 ACADEMIC PROJECTS
 ======
   <ul>{% for post in site.projects  %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
- 
 
 TALKS
 ======
