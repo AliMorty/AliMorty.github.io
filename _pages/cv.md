@@ -10,10 +10,10 @@ redirect_from:
 [Download](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/Ali_Mortazavi_CV.pdf) my CV.pdf 
 
 
-RELATED EXPERIENCES
+BRIEF HIGHLIGHT 
 ======
 ### Algorithm Design
- *  [Teaching assistant](https://alimorty.github.io//teaching/2015-spring-teaching-1) in algorithm design
+ *  Teaching assistant in algorithm design
  *	Membership of problem designer team in AUT programming league
  *  Passed **advanced topics in algorithms** course with the highest score among students of our class.
  
@@ -27,7 +27,8 @@ RELATED EXPERIENCES
  
 ### Game Theory
    * Attended related seminars and workshop
-
+   
+### Participated in 21st National Scientific Olympiad of Computer Engineering in Iran and ranked 19th
 
 
 
