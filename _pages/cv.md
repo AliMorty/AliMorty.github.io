@@ -28,8 +28,8 @@ redirect_from:
 ### Game Theory
    * Attended related seminars and workshop
    
-CV
-======
+## CV
+
    
 [Download](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/Ali_Mortazavi_CV.pdf) my CV.pdf
    
