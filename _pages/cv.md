@@ -10,7 +10,7 @@ redirect_from:
  
 
 
-## A BRIEF HIGHLIGHT OF MY EXPERIENCES
+## A SHORT LIST OF MY EXPERIENCES
 
 ### Algorithm Design
  *  Teaching assistant in algorithm design
