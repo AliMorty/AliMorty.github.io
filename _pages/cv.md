@@ -12,6 +12,10 @@ redirect_from:
 
 ## A SHORT LIST OF MY EXPERIENCES
 
+### Game Theory
+   * Video lectures from Professor Tim Roughgarden's [Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html) (currently 10 lectures from 20 lectures!)
+   * Attended a Workshop on Game Theory by Dr. Salavati
+
 ### Algorithm Design
  *  Teaching assistant in algorithm design
  *	Membership of problem designer team in AUT programming league
@@ -25,8 +29,7 @@ redirect_from:
    *  A [post](https://alimorty.github.io//posts/2018-10-30-Why-Mean-Squared-Error/) about "When and Why we use Mean Squared Error"
    
  
-### Game Theory
-   * Attended related seminars and workshop
+
    
 ## CV
 
