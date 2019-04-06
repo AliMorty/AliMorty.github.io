@@ -22,11 +22,11 @@ EDUCATION
 RESEARCH INTEREST
 ======
 In general, I am interested in mathematics and theoretical computer science. I have experience both in algorithm design and probability and statistics and right now, 
-I decided to focus on game theory and mechanism design because first of all, it is theory hence exciting and also because most of the questions that comes to my mind during the day are related to some sort of applications of game theory. (i.e. understanding the selfish agents behavior, find a way to maximize the social welfare and maximizing the fairness, aggregating subjective preferences of a group,   etc.) <br>
+I decided to focus on game theory and mechanism design because first of all, it is theory hence exciting and also because most of the questions that come to my mind during the day are related to some sort of applications of game theory. (i.e. understanding the selfish agents' behavior, find a way to maximize the social welfare and maximizing the fairness, aggregating subjective preferences of a group,   etc.) <br>
 My research interests are: <br>
 * Algorithmic Game Theory
 * Mechanism Design
-*	Statistical Machine Learning 
+* Statistical Machine Learning 
 
 
 
