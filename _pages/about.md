@@ -21,13 +21,8 @@ EDUCATION
                                                                   
 RESEARCH INTEREST
 ======
-In general, I am interested in using mathematical objects to model a phenomenon and then finding theorems to describe it. 
-I am also interested in finding the relationship between different problems. (e.g. reducing NP-Complete Problems to each other) In particular, I am interested in **learning theory** and **game theory**. 
-Learning theory because I am interested in providing theories about using data, in an uncertain environment, to make an inference about a phenomenon in a precise way. 
-On the other hand, game theory because I like to think about objects (especially humans) as selfish agents in a game, to predict their possible behaviors. 
-I am also interested in designing mechanism to make a guarantee about the behavior of agents. <br>
-My research interests are: <br>
-
+In general, I am interested in mathematics and theoretical computer science. I have experience both in algorithm design and probability and statistics and right now, 
+I decided to focus on game theory and mechanism design because first of all, it is theory hence exciting and also because most of the questions that comes to my mind during the day are related to some sort of applications of game theory. (i.e. understanding the selfish agents behavior, find a way to maximize the social welfare and maximizing the fairness, aggregating subjective preferences of a group,   etc.) So my research interests are: <br>
 * Algorithmic Game Theory
 * Mechanism Design
 *	Statistical Machine Learning 
