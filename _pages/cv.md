@@ -13,8 +13,9 @@ redirect_from:
 ## A SHORT LIST OF MY EXPERIENCES
 
 ### Game Theory
-   * Video lectures from Professor Tim Roughgarden's [Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html) (currently 10 lectures from 20 lectures!)
-   * Attended a Workshop on Game Theory by Dr. Salavati
+   * Video lectures from Prof. Tim Roughgarden's [Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html) (currently 10 lectures from 20 lectures!)
+   * Attended a Workshop on Game Theory by prof. Salavati
+   * A short course on Information Design by prof. Nima Haghpanah
 
 ### Algorithm Design
  *  Teaching assistant in algorithm design
