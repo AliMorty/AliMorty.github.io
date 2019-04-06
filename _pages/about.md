@@ -28,10 +28,10 @@ On the other hand, game theory because I like to think about objects (especially
 I am also interested in designing mechanism to make a guarantee about the behavior of agents. <br>
 My research interests are: <br>
 
+* Algorithmic Game Theory
+* Mechanism Design
 *	Statistical Machine Learning 
-*	Optimization
-*	Sequential Prediction
-*	Mechanism Design in Game Theory
+
 
 
 
