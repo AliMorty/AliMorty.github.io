@@ -1,23 +1,23 @@
 # main links links
 main:
-
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Posts"
     url: /posts/
     
   - title: "Education"
     url: /education/
+    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+
+  - title: "Projects"
+    url: /projects/
+
 
   - title: "Awards"
     url: /awards/
-   
-  - title: "Talks"
-    url: /talks/  
+     
     
   - title: "CV"
     url: /cv/
