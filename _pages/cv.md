@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "Résumé"
+title: "A short list of my experiences"
 excerpt: "More about me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
  
 
 
-## A SHORT LIST OF MY EXPERIENCES
+
 
 ### Game Theory
    * Video lectures from prof. Tim Roughgarden's [Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html) (currently 10 lectures from 20 lectures!)
@@ -32,7 +32,7 @@ redirect_from:
  
 
    
-## CV
+# CV
 
    
 [Download](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/Ali_Mortazavi_CV.pdf) my CV.pdf
