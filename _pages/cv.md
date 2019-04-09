@@ -82,7 +82,6 @@ FAMILIAR WITH
 * **Statistical Machine Learning** (Wasserman's book: All of statistics)
 * **Probabilistic Graphical Models** (Kuller's book)
 * **Game Theory**
-* **Natural Languege Processing**
   
 
 
