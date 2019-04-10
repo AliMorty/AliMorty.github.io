@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-<br>
 ### Game Theory
    * Video lectures from prof. Tim Roughgarden's [Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html) (currently 10 lectures from 20 lectures!)
    * Attended a Workshop on Game Theory by prof. Salavati
@@ -24,10 +23,10 @@ redirect_from:
  *	Membership of problem designer team in AUT programming league
  *  Passed **advanced topics in algorithms** course with the highest score among students of our class.
 
-<br><br><br> 
+<br><br>
 
 
-CV 2 
+CV 
 ======
 
    
