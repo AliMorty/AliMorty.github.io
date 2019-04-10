@@ -6,32 +6,25 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
- 
-
-
-
+--- 
 
 ### Game Theory
    * Video lectures from prof. Tim Roughgarden's [Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html) (currently 10 lectures from 20 lectures!)
    * Attended a Workshop on Game Theory by prof. Salavati
    * Attended a short course on Information Design by prof. Nima Haghpanah
-
-### Algorithm Design
- *  Teaching assistant in algorithm design
- *	Membership of problem designer team in AUT programming league
- *  Passed **advanced topics in algorithms** course with the highest score among students of our class.
- 
-
+   
 ### Statistical Machine Learning
    *  Passed related courses with distinctive qualifications such as **Stochastic Process**, **Data Mining** and audited **Statistical Machine Learning**, and **Probabilistic Graphical Models**.
    *  Teaching Assistant in [probability and statistics](https://alimorty.github.io//teaching/2018-spring-teaching-1)
    *  Related Academic [Projects](https://alimorty.github.io//projects/)
    *  A [post](https://alimorty.github.io//posts/2018-10-30-Why-Mean-Squared-Error/) about "When and Why we use Mean Squared Error"
    
- 
+### Algorithm Design
+ *  Teaching assistant in algorithm design
+ *	Membership of problem designer team in AUT programming league
+ *  Passed **advanced topics in algorithms** course with the highest score among students of our class.
 
-   
+<br><br><br> 
 CV
 ======
 
