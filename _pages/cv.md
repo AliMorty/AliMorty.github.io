@@ -25,6 +25,8 @@ redirect_from:
  *  Passed **advanced topics in algorithms** course with the highest score among students of our class.
 
 <br><br><br> 
+
+
 CV
 ======
 
