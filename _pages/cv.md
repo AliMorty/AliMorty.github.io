@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-
+<br>
 ### Game Theory
    * Video lectures from prof. Tim Roughgarden's [Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html) (currently 10 lectures from 20 lectures!)
    * Attended a Workshop on Game Theory by prof. Salavati
