@@ -32,6 +32,6 @@ Assignments have two parts.
 #### Computer Experiment  includes: 
 * Naive Bayes Classifier
 * Sampling From a Distribution and Plotting corresponding Graphs
-
+<br>
 
 For more information about the question material checkout [github](https://github.com/AliMorty/2018-spring-statistics-TA)
