@@ -20,8 +20,10 @@ This course is taught by Dr.Heari. My main task includes: <br>
 
 Assignments have two parts. 
 > Questions<br>
-> Computer Experiments<br>
-<br>
+> Computer Experiments
+
+
+
 
 #### Questions includes:
 * Calculating Probabilities
