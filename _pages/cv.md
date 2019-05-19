@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 --- 
 ### Game Theory
-   * Video lectures from prof. Tim Roughgarden's [Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html) (currently 10 lectures from 20 lectures!)
+   * Currently reading "Game Theory, alive" and "Algorithmic Game Theory" book. 
+   * Video lectures from prof. Tim Roughgarden's [Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html) (10 first lectures)
    * Attended a Workshop on Game Theory by prof. Salavati
    * Attended a short course on Information Design by prof. Nima Haghpanah
    
