@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 --- 
 ### Game Theory
-   * Read "Game Theory, alive" by Karlin and Perez: Chapter 1 to 8, 10, 15 and "Algorithmic Game Theory" chapters 1,2,4,9 books. 
+   * Read "Game Theory, alive" by Karlin and Perez: Chapter 1 to 8, 10, 15 and "Algorithmic Game Theory" book by Nisan et al. chapters 1,2,4,9.
    * Video lectures from prof. Tim Roughgarden's [Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html) (10 first lectures)
    * Attended a short course on Information Design by prof. [Nima Haghpanah](https://www.personal.psu.edu/nuh47/)
       * Attended a Workshop on Game Theory by [prof. Salavati](https://scholar.google.com/citations?hl=en&user=CeASr-0AAAAJ&view_op=list_works&sortby=pubdate)
