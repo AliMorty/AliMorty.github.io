@@ -26,7 +26,7 @@ In general, I am passionate about mathematics and theoretical computer science. 
 (i.e. understanding the selfish agents' behavior, find a way to maximize the social welfare and maximizing the fairness, aggregating subjective preferences of a group, evolutionary equilibria in real life, price of anarchy when people use the same app for routing!, etc.) <br>
 As long as there is a nice theoretical question which I can do some progress on it, I am in! But let's list my interest here:<br>
 * Algorithmic Game Theory
-* Online (Stochastic) Algorithms
+* Online (Stochastic) Algorithms (**currently doing research on it**)
 * Mechanism Design
 * Online Learning
 * Property Testing
