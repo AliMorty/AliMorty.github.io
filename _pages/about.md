@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Ali Mortazavi. I have finished my undergraduate studies in Computer Engineering at [CEIT department](http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en) of [AmirKabir University of Technology](http://aut.ac.ir/aut/). Now, I am studying Game Theory mostly by reading books and watching video lectures and videos of conferences on Algorithmic Game Theory.
+I am Ali Mortazavi. I have finished my undergraduate studies in Computer Engineering at [CEIT department](http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en) of [AmirKabir University of Technology](http://aut.ac.ir/aut/) as a 3rd rank (out of 100 students). I am currently a visiting student working on algorithmic game theory at ITCS department in Shanghai University of Finance and Economics and am working under supervision of Prof. Gravin and Prof. Gavin and my area of current research is  online stochastic matching  
+
+Now, I am studying Game Theory mostly by reading books and watching video lectures and videos of conferences on Algorithmic Game Theory.
 <br> 
 
 
