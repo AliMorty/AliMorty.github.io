@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Ali Mortazavi. I finished my undergraduate studies in Computer Engineering at [CEIT department](http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en) of [AmirKabir University of Technology](http://aut.ac.ir/aut/) as a 3rd rank (out of 100 students). Having interest in theoretical research, I decided to continue my study in the area of Algorithmic Game Theory. After reading lecture notes and books about Algorithmic Game Theory (which I described [here](https://alimorty.github.io//cv/)), I joined [ITCS](http://itcs.shufe.edu.cn/home/) department in Shanghai University of Finance and Economics (SUFE) as a visiting student to do a research. <br>
-Currently, I am working under supervision of Prof. [Nick Gravin](http://itcs.shufe.edu.cn/~gravin/) and Prof. [Zhihao Gavin Tang](http://itcs.shufe.edu.cn/~zhtang/) and my area of current research is online stochastic matching.<br>
+I am Ali Mortazavi. I finished my undergraduate studies in Computer Engineering at [CEIT department](http://ceit.aut.ac.ir/autcms/home.htm?depurl=computer-engineering&lang=en) of [AmirKabir University of Technology](http://aut.ac.ir/aut/) as a 3rd rank (out of 100 students). Having an interest in theoretical research, I decided to continue my study in the area of Algorithmic Game Theory. After reading lecture notes and books about Algorithmic Game Theory (which I described [here](https://alimorty.github.io//cv/)), I joined [ITCS](http://itcs.shufe.edu.cn/home/) department in Shanghai University of Finance and Economics (SUFE) as a visiting student to do research. <br>
+Currently, I am working under the supervision of Prof. [Nick Gravin](http://itcs.shufe.edu.cn/~gravin/) and Prof. [Zhihao Gavin Tang](http://itcs.shufe.edu.cn/~zhtang/) and my area of current research is online stochastic matching.<br>
 <br> 
 
 
@@ -24,7 +24,7 @@ RESEARCH INTEREST
 ======
 In general, I am passionate about mathematics and theoretical computer science. I have experience both in algorithm design and probability and statistics in undergrad. After searching for a while, I found Game Theory to be very exciting, firstly because it is theory hence exciting and secondly because most of the questions that come to my mind during the day are related to some sort of applications of game theory. 
 (i.e. understanding the selfish agents' behavior, find a way to maximize the social welfare and maximizing the fairness, aggregating subjective preferences of a group, evolutionary equilibria in real life, price of anarchy when people use the same app for routing!, etc.) <br>
-As long as there is a very nice theoretical question which I can do some progress on it, I am in! But let's list my interest here:<br>
+As long as there is a nice theoretical question which I can do some progress on it, I am in! But let's list my interest here:<br>
 * Algorithmic Game Theory
 * Online (Stochastic) Algorithms
 * Mechanism Design
