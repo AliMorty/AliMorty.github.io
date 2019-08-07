@@ -1,6 +1,6 @@
 ---
 title: "About Amirkabir Unversity"
-excerpt: "About AUT "
+excerpt: "About-AUT "
 collection: portfolio
 ---
 
