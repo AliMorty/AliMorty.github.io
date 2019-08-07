@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Ali Mortazavi. I finished my undergraduate studies in Computer Engineering at CEIT department of [AmirKabir University of Technology](https://alimorty.github.io//posts/2019-01-01-About-Amirkabir-University-of-technology/) as a 3rd rank (out of 100 students). Having an interest in theoretical research, I decided to continue my study in the area of Algorithmic Game Theory. After reading lecture notes and books about Algorithmic Game Theory (which I described [here](https://alimorty.github.io//cv/)), I joined [ITCS](http://itcs.shufe.edu.cn/home/) group at Shanghai University of Finance and Economics (SUFE) as a visiting student to do research. <br>
+I am Ali Mortazavi. I finished my undergraduate studies in Computer Engineering at CEIT department of [AmirKabir University of Technology](https://alimorty.github.io//posts/2019-01-01-About-Amirkabir-University-of-Technology/) as a 3rd rank (out of 100 students). Having an interest in theoretical research, I decided to continue my study in the area of Algorithmic Game Theory. After reading lecture notes and books about Algorithmic Game Theory (which I described [here](https://alimorty.github.io//cv/)), I joined [ITCS](http://itcs.shufe.edu.cn/home/) group at Shanghai University of Finance and Economics (SUFE) as a visiting student to do research. <br>
 Currently, I am working under the supervision of Prof. [Nick Gravin](http://itcs.shufe.edu.cn/~gravin/) and Prof. [Zhihao Gavin Tang](http://itcs.shufe.edu.cn/~zhtang/) and my area of current research is online stochastic matching.<br>
 <br> 
 
