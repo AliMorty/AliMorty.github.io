@@ -197,9 +197,7 @@ collections:
   grades:
     output: true
     permalink: /:collection/:path/
-  data:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # Defaults
