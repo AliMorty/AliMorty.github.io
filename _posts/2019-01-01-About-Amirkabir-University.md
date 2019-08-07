@@ -4,7 +4,7 @@ There are several top universities in Tehran. There is always debates about thei
 
 1. Sharif University of Technology (SUT)
 2. Tehran University (UT)
-3. Amirkabir Univeristy (Tehran Polytechnic) (AUT)
+3. **Amirkabir Univeristy (Tehran Polytechnic) (AUT)**
 4. Shahid Beheshti University (SBU)
 5. Science and Technology 
 
