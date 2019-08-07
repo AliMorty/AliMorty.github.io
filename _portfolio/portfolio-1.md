@@ -1,6 +1,7 @@
 ---
 title: "About Amirkabir Unversity"
 excerpt: "About-AUT "
+permalink: /more/about-aut
 collection: portfolio
 ---
 
