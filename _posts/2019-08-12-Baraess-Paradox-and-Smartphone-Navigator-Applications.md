@@ -87,9 +87,9 @@ In the setting above, the price of anarchy is at most $ \frac{5}{2} $ . [1] Mean
 
 Actually the competition between different companies leads this anarchy. Right now they do not have any  incentive to give the social optimum route to each individual. So I can propse two naive ways-of course there should be better solutions: <br>
 
-### Restrict people to use a central app which gives us social optimum routes
+### 1) Restrict people to use a central app which gives us social optimum routes
 
-### Adding a payment for each individual who wants to use his best route
+### 2) Adding a payment for each individual who wants to use his best route
 Maybe we can find a good price function to incentivize people to use the social optimum routes. Similar to the ideas related to Mechanism Design. 
 
 # Resources: 
