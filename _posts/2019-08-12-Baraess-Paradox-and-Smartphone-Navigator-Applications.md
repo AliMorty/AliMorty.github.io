@@ -72,20 +72,26 @@ the cost of traversing edge e if n drivers use it. Driver i’s strategic decisi
 path $P_i$ to choose from $s_i$ to $t_i$, and her objective is to choose a path with minimum
 latency. <br>
 
-### Price of Anarchy here
+
 
 
 
  
-## To what extent we can hope for a better application
-In the setting above, the price of anarchy is at most %\frac{5}{2}%.[1] Meaning that if we use the best social optimum paths, then the best thing we can hope for is to decrease our average latency by the factor of \frac{2}{5}. This is a bound on how bad the navigation apps affect the traffic compared to the best possible routing system.  
+### To what extent we can hope for a better application
+In the setting above, the price of anarchy is at most % \frac{5}{2} %.[1] Meaning that if we use the best social optimum paths, then the best thing we can hope for is to decrease our average latency by the factor of $ \frac{2}{5} $. If we assume that the model above is precise enough, then  $ \frac{2}{5} $ is a bound on how bad the navigation apps affect the traffic compared to the best possible routing system.  
  
 
  
  
 ## What is the solution
 
-At this time, I think there can be two possible solution for this problem. 
+Actually the competition between different companies leads this anarchy. Right now they are not incentivize to give the social optimum route to each individual. So there are two ways: <br>
+
+### Restrict people to use a central app which gives us social optimum routes
+
+### 
+
+
 
 
 TODO: add a payment function if a person wants to use individual optimum rather than social optimum
