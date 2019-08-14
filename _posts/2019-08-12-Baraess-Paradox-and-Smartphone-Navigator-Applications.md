@@ -78,7 +78,7 @@ latency. <br>
 
  
 ### To what extent we can hope for a better application
-In the setting above, the price of anarchy is at most % \frac{5}{2} % . [1] Meaning that if we use the best social optimum paths, then the best thing we can hope for is to decrease our average latency by the factor of $ \frac{2}{5} $. If we assume that the model above is precise enough, then  $ \frac{2}{5} $ is a bound on how bad the navigation apps affect the traffic compared to the best possible routing system.  
+In the setting above, the price of anarchy is at most $ \frac{5}{2} $ . [1] Meaning that if we use the best social optimum paths, then the best thing we can hope for is to decrease our average latency by the factor of $ \frac{2}{5} $. If we assume that the model above is precise enough, then  $ \frac{2}{5} $ is a bound on how bad the navigation apps affect the traffic compared to the best possible routing system.  
  
 
  
