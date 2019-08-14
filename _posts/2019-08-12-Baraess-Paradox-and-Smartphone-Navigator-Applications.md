@@ -58,7 +58,7 @@ In the game theory community, people try to find a bound on how bad it is for pe
 ## Price of Anarchy
 In the above example, the price of anarchy is: <br>
 $$ \text{price of anarchy} =: \frac {\text{average travel time in the worst Nash equilibrium}}{\text{average travel time in socially optimum outcome}}=\frac{2}{\frac{3}{2}}=\frac{4}{3}
-$$
+$$ <br>
 So if we live in this simple city, we can ask all people to not use the shortcut, as a result we can have a better travel time. Ok. Let’s talk about a better model for traffic. 
 ###  A better model
 I saw this model from Section 8.4 Atomic Selfish Routing from [1] (which is a very great book, at least for me). This model is closer to our city. <br>
@@ -83,17 +83,18 @@ In the setting above, the price of anarchy is at most % \frac{5}{2} %.[1] Meanin
 
  
  
-## What is the solution
+## Conclusion: What is the solution
 
-Actually the competition between different companies leads this anarchy. Right now they are not incentivize to give the social optimum route to each individual. So there are two ways: <br>
+Actually the competition between different companies leads this anarchy. Right now they do not have any  incentive to give the social optimum route to each individual. So I can propse two naive ways-of course there should be better solutions: <br>
 
 ### Restrict people to use a central app which gives us social optimum routes
 
-### 
+### Adding a payment for each individual who wants to use his best route
+Maybe we can find a good price function to incentivize people to use the social optimum routes. Similar to the ideas related to Mechanism Design. 
+
+# Resources: 
+1: Karlin, Anna R., and Yuval Peres. Game theory, alive. Vol. 101. American Mathematical Soc., 2017.
 
 
-
-
-TODO: add a payment function if a person wants to use individual optimum rather than social optimum
  
 
