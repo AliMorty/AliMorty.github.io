@@ -49,7 +49,11 @@ It means that all of the drivers use two highways and as a result, we have two c
  
 ## Getting back to our navigation problem
 Adding a shortcut is in some sense related to the use of this navigation applications. Sometimes they give us shortcuts to get away from congested traffic. But it doesn’t necessarily mean that what we are doing to the traffic will not make the condition worse even for ourselves. Of course, this example is a very simplified model that cannot capture all the properties of a city. These linear latency functions are good to model network connection and not necessarily the best choice for traffic in cities. But aside from these simplicity making assumptions, there is a fundamental flaw when all people try to only maximize their objective. This might be the case that the <br>
+
+
 >> The best for the group comes when everyone in the group does what’s best for himself AND the group.<br>
+
+
 In the game theory community, people try to find a bound on how bad it is for people to be selfish comparing to the best average result. They will call this bound **price of anarchy**.
 ## Price of Anarchy
 In the above example, the price of anarchy is: <br>
@@ -59,6 +63,8 @@ So if we live in this simple city, we can ask all people to not use the shortcut
 ###  A better model
 I saw this model from Section 8.4 Atomic Selfish Routing from [1] (which is a very great book, at least for me). This model is closer to our city. <br>
 I brought the definition of it from [1]: <br>
+
+
 >> Consider a road network G = (V;E) and a set of k drivers,
 with each driver i traveling from a starting node $s_i \in V$   to a destination $ t_i \in V$ .
 Associated with each edge $e \in E$ is a latency function$l_e(n) = a_e . n+b_e$ representing
@@ -69,8 +75,7 @@ latency. <br>
 
 
 
-## Are we in equilibrium now?
-I think if we all use the best navigator apps,
+
  
 ## To what extent we can hope for a better application
 In General, if we have n drivers, each i wants to drive from $s_i$ to $t_i$ and all routes have linear latency function, then the price of anarchy is at most %\frac{5}{2}%. Meaning that if we use the best social optimum paths, then the best thing we can hope for is to decrease our average latency by the factor of \frac{2}{5}. This is a bound on how bad the navigation apps affect the traffic compared to the best possible routing system.  
