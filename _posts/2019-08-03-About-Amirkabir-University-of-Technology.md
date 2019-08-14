@@ -7,7 +7,9 @@ There are several top universities in Tehran (Capital of Iran). There is always 
 3. **Amirkabir University of Technology (Tehran Polytechnic) (AUT)**
 4. Shahid Beheshti University (SBU)
 5. Iran University of Science and Technology (IUST)
- 
+<br>
+
+
 Because of geographical barrier, there is not a lot of conferences and workshops here as much as other active counties. So the ranks corresponding to our universities are not high. <br><br>
 But considering this fact that most talented students in Iran prefer to study computer science and computer engineering these days, we can conclude that students in these universities (with high probability) have good cognitive abilities to do a great job in the graduate studies. <br><br>
 To be concrete, let's explain the ratio a bit more: Each year, there is national-wide university entrance exam in which around **200,000 students** participate. Only about **500 students** can get admission to the above universities. And because of the growth of online material such as lecture notes, assignments, and resources, students here usually use the materials from top universities. As a result, in **undergraduate level**, I think there is not a significant difference between our universities and **top universities** around the world. But for graduate studies, I think this is not true firstly because, in graduate-level studies, the advisor plays a crucial role. To motivate faculties to do great up-to-date research, we need to invest a huge amount of money, otherwise, professors pay less emphasize on their advisory roles and focus on high paying jobs. Because there is not much funding usually in Iran, we can not expect to bring great output here. The second reason is the distance from the community. There is not a lot of international conferences here in Iran, so we can have access to new material just through the papers. Of course, there is a one year (or more) gap between a discovery and its appearance as a paper. So on average, we are behind at least by a year. <br><br>
