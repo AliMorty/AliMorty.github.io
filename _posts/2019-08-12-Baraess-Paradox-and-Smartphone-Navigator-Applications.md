@@ -17,7 +17,7 @@ There is a question arising in this setting. Using this app necessarily leads ou
 Someone might think that if each individual tries to minimize his travel time in each travel, then he is using routes less than the time when he doesn't. So on aggregate, this will be the best possible choice for each individual. But this is not necessarily true. (I know it might be a little confusing for the first time, but wait), I will explain it using a very famous example which is called Baraess Paradox. 
  
 ## Baraess Paradox
-(All of the images here are from Game Theory Alive book [1])
+(All of the images here are from Game Theory Alive book [1]) <br>
 Suppose that we have 2 routes from A to B similar to the image below. Each edge in this graph has a latency function. We call it $l_e(x)$ where x is the amount of cars in that edge. <br>
 Here, edge AD and CB has a constant latency function equals to one. $ l_{AD}(x)= l_{CB}(x)=1 $ (they are streets which are sparse enough so that you can drive with the maximum speed of 30km/h without any trouble.) <br>
 Edge AC and DB have a latency proportional to the number of drivers that currently use that edge.$ l_{AC}(x) = l_{DB}(x) = x $  (You can assume that they are highways. On highways, you should keep your distance with the car in front of you in a way that if it immediately stopped, you would be able to react properly and stop your car. And the distance with that car is proportional to the number of cars using that route. i.e. If there are x cars on the highway, on average the car in front of you have d meter distance with you,
