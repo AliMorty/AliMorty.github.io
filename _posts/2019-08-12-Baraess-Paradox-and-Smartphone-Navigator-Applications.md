@@ -34,15 +34,15 @@ Suppose that 100*x percent of drivers like the top route and 100*(1-x) percent l
 If the $x\leq 0.5$ same things happen to bottom route drivers. <br>
  
 So, after few weeks, our expected latency would be: <br>
-1 + 0.5 for both top drivers and bottom drivers.
- 
- ## Adding a new road is not always good
+1 + 0.5 for both top drivers and bottom drivers.<br>
+
+## Adding a new road is not always good
 Now suppose we construct a shortcut from C to D with latency zero. Of course, adding a new line with no latency seems a good idea. People would love this. Because they can use the path A-C-D-B to use both of the highways. (Adding this shortcut is very similar to the situation in which people have access to a navigator app that knows local shortcuts from a highway to another. The app gives the best possible map for each individual that uses it)
  
 Forget about the navigator app for a minute and suppose we are about to add our zero-latency shortcut.
 
 ![city-2](https://raw.githubusercontent.com/AliMorty/AliMorty.github.io/master/images/city-2.png)
- ### What will happen?
+### What will happen?
 The day after we construct this shortcut, the drivers of the top route will notify that A-C-D-B is a faster route. So they will become interested to change their path. They will use A-C-D-B and the DB highway will become more crowded. As a result, the bottom drivers (A-D-B) will try to use the top route (A-C-D). As they use it, they will notice that there is a new shortcut C-D. They will test it and they will realize that the best path is A-C-D-B. Finally, after a couple of weeks, all drivers will use A-C-D-B as their path. (Infact, this choice is a **Nash equilibrium**, meaning that after a day, nobody will have any regret about the path he chose, also note that there might be several Nash equilibria)
 It means that all of the drivers use two highways and as a result, we have two crowded highways that are like streets. It is like there is no highway at all! That’s a tragedy! So **adding a shortcut is not always a good idea**.
 ![congested](https://raw.githubusercontent.com/AliMorty/AliMorty.github.io/master/images/city-3.png)
@@ -72,48 +72,22 @@ the cost of traversing edge e if n drivers use it. Driver i’s strategic decisi
 path $P_i$ to choose from $s_i$ to $t_i$, and her objective is to choose a path with minimum
 latency. <br>
 
-
+### Price of Anarchy here
 
 
 
  
 ## To what extent we can hope for a better application
-In General, if we have n drivers, each i wants to drive from $s_i$ to $t_i$ and all routes have linear latency function, then the price of anarchy is at most %\frac{5}{2}%. Meaning that if we use the best social optimum paths, then the best thing we can hope for is to decrease our average latency by the factor of \frac{2}{5}. This is a bound on how bad the navigation apps affect the traffic compared to the best possible routing system.  
+In the setting above, the price of anarchy is at most %\frac{5}{2}%.[1] Meaning that if we use the best social optimum paths, then the best thing we can hope for is to decrease our average latency by the factor of \frac{2}{5}. This is a bound on how bad the navigation apps affect the traffic compared to the best possible routing system.  
  
-## How we can achieve this best possible  
- 
- 
+
  
  
-As we use different apps, and because they are competing with each other, they will give you the best possible route which maximizes only your objective. If all applications tri
- 
-## How bad it is?
- 
- 
- 
- 
- 
-So, as you see in this example,
- 
- 
- 
- 
- 
- 
- 
-** Sometimes, using some navigators app is similar to adding some shortcut with very little latency. ** So it seems harmless to use those apps.
- 
-In general, we can assume that the latency in each edge is linear with respect to the proportion of population (x) who uses that edge:
-$$ l_e(x) = a_e x + b_e $$
- 
- 
- 
- 
-This situation is, of course, familiar in Game Theory community! Christos Papodimitroiv et al. call this Price
- 
- 
-TODO: mention beautiful mind sentence when John Nash is in the bar: the best result come from a group who chooses the best setting that is better for the group not for each individual!
- 
+## What is the solution
+
+At this time, I think there can be two possible solution for this problem. 
+
+
 TODO: add a payment function if a person wants to use individual optimum rather than social optimum
  
 
