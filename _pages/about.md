@@ -23,7 +23,7 @@ EDUCATION
 RESEARCH INTEREST
 ======
 In general, I am passionate about mathematics and theoretical computer science. I have experience both in algorithm design and probability and statistics in undergrad. After searching for a while, I found Game Theory to be very exciting, firstly because it is theory hence exciting and secondly because most of the questions that come to my mind during the day are related to some sort of applications of game theory. 
-(i.e. understanding the selfish agents' behavior, find a way to maximize the social welfare and maximizing the fairness, aggregating subjective preferences of a group, evolutionary equilibria in real life, price of anarchy when people use the same app for routing-[here is a post about it](https://alimorty.github.io//posts/2019-08-12-Baraess-Paradox-and-Smartphone-Navigator-Applications/)!, etc.) <br>
+(i.e. understanding the selfish agents' behavior, find a way to maximize the social welfare and maximizing the fairness, aggregating subjective preferences of a group, evolutionary equilibria in real life, price of anarchy when people use the same navigation app!-[here is a post about it](https://alimorty.github.io//posts/2019-08-12-Baraess-Paradox-and-Smartphone-Navigator-Applications/), etc.) <br>
 As long as there is a nice theoretical question which I can do some progress on it, I am in! But let's list my interest here:<br>
 * Algorithmic Game Theory
 * Online (Stochastic) Algorithms (**currently doing research on it**)
