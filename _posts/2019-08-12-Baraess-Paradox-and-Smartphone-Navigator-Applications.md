@@ -24,8 +24,9 @@ Edge AC and DB have a latency proportional to the number of drivers that current
 on the other hand, if there are 2x cars, then on average the car in front of you have d/2 meters distance from you. so you need to decrease your speed from v to v/2 to keep your time distance with the car. as a result, the latency will increase from t to 2t.)<br>
  
 So in this setting, AC and DB are highways and we love to use them!
- 
-IMAGE1 here
+
+![city-1](https://raw.githubusercontent.com/AliMorty/AliMorty.github.io/master/images/city-1.png)
+
  
 ## What will happen in this setting?
 Ok so in that setting, what will happen?
@@ -39,9 +40,12 @@ So, after few weeks, our expected latency would be: <br>
 Now suppose we construct a shortcut from C to D with latency zero. Of course, adding a new line with no latency seems a good idea. People would love this. Because they can use the path A-C-D-B to use both of the highways. (Adding this shortcut is very similar to the situation in which people have access to a navigator app that knows local shortcuts from a highway to another. The app gives the best possible map for each individual that uses it)
  
 Forget about the navigator app for a minute and suppose we are about to add our zero-latency shortcut.
+
+![city-2](https://raw.githubusercontent.com/AliMorty/AliMorty.github.io/master/images/city-2.png)
  ### What will happen?
 The day after we construct this shortcut, the drivers of the top route will notify that A-C-D-B is a faster route. So they will become interested to change their path. They will use A-C-D-B and the DB highway will become more crowded. As a result, the bottom drivers (A-D-B) will try to use the top route (A-C-D). As they use it, they will notice that there is a new shortcut C-D. They will test it and they will realize that the best path is A-C-D-B. Finally, after a couple of weeks, all drivers will use A-C-D-B as their path. (Infact, this choice is a **Nash equilibrium**, meaning that after a day, nobody will have any regret about the path he chose, also note that there might be several Nash equilibria)
 It means that all of the drivers use two highways and as a result, we have two crowded highways that are like streets. It is like there is no highway at all! That’s a tragedy! So **adding a shortcut is not always a good idea**.
+![congested](https://raw.githubusercontent.com/AliMorty/AliMorty.github.io/master/images/city-3.png)
  
 ## Getting back to our navigation problem
 Adding a shortcut is in some sense related to the use of this navigation applications. Sometimes they give us shortcuts to get away from congested traffic. But it doesn’t necessarily mean that what we are doing to the traffic will not make the condition worse even for ourselves. Of course, this example is a very simplified model that cannot capture all the properties of a city. These linear latency functions are good to model network connection and not necessarily the best choice for traffic in cities. But aside from these simplicity making assumptions, there is a fundamental flaw when all people try to only maximize their objective. This might be the case that the <br>
