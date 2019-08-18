@@ -32,7 +32,7 @@ So in this setting, AC and DB are highways and we love to use them!
  
 ## What will happen in this setting?
 Ok so in that setting, what will happen?
-Suppose that $ 100*x $ percent of drivers like the top route and $ 100*(1-x) $ percent like the bottom route, then if $x\geq 0.5$ after a few days, those drivers who like the top route will notify that the bottom route is better, so they will lose their interest as time goes on. So we will see a decrease in the x population. If we plot the population for the top route each day, we will probably see a sequence converging to 0.5.
+Suppose that $ 100.x $ percent of drivers like the top route and $ 100.(1-x) $ percent like the bottom route, then if $x\geq 0.5$ after a few days, those drivers who like the top route will notify that the bottom route is better, so they will lose their interest as time goes on. So we will see a decrease in the x population. If we plot the population for the top route each day, we will probably see a sequence converging to 0.5.
 If the $x\leq 0.5$ same things will happen to bottom route drivers. <br>
  
 So, after a few weeks, our expected latency would be: <br>
