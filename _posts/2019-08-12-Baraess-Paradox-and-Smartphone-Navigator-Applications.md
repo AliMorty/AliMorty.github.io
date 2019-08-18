@@ -1,5 +1,5 @@
 
-Probably all of us, if we have a car, use navigator applications to find the fastest route. Especially when there is huge traffic in the city. (In our country), people usually used Google Map in the past. But just recently, there is a large number of new applications that are far better than Google Map, usually because of their new features such as navigation guidance voice, online update, better estimation, etc. <br>
+Probably all of us, if we have a car, use navigator applications to find the fastest route. Especially when there is huge traffic in the city. In my country, people usually used Google Map in the past. But just recently, there is a large number of new applications that are far better than Google Map, usually because of their new features such as navigation guidance voice, online update, better estimation, etc. <br>
  
 Two years ago, those applications were doing quite well. But nowadays, we have a very strange type of traffic in our city. When you drive in the afternoon, you will see that some highways are completely congested while some others are pretty empty. I think this situation is similar to a concept that I have learned in Game Theory. I want to discuss it here: <br>
 
