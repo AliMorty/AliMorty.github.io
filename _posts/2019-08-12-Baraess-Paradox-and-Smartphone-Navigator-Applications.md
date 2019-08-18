@@ -53,7 +53,7 @@ It means that all of the drivers use two highways and as a result, we have two c
 Adding a shortcut is in some sense related to the use of this navigation applications. Sometimes they give us shortcuts to get away from congested traffic. But it doesn’t necessarily mean that what we are doing to the traffic will not make the condition even worse for ourselves. Of course, this example is a very simplified model that cannot capture all the properties of a city. These linear latency functions are good to model network connection and not necessarily the best choice for traffic in cities. But aside from these simplicity making assumptions, there is a fundamental flaw when all people try to only maximize their objective. This might be the case that the <br>
 
 
->> The best for the group comes when everyone in the group does what’s best for himself AND the group.<br>
+> The best for the group comes when everyone in the group does what’s best for himself AND the group.<br>
 
 
 In the game theory community, people try to find a bound on how bad it is for people to be selfish comparing to the best average result. They call this bound **price of anarchy**.
@@ -67,7 +67,7 @@ I saw this model from Section 8.4 Atomic Selfish Routing from [1] (which is a ve
 I brought the definition of it from [1]: <br>
 
 
->> Consider a road network G = (V;E) and a set of k drivers,
+> Consider a road network G = (V;E) and a set of k drivers,
 with each driver i traveling from a starting node $s_i \in V$   to a destination $ t_i \in V$ .
 Associated with each edge $e \in E$ is a latency function$l_e(n) = a_e . n+b_e$ representing
 the cost of traversing edge e if n drivers use it. Driver i’s strategic decision is which
