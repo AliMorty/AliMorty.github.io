@@ -97,7 +97,8 @@ The competition between different companies leads to this anarchy. Right now the
 Maybe we can find a good price function to incentivize people to use social optimum routes. Similar to the ideas related to Mechanism Design. 
 
 # Resources: 
-[1]: Karlin, Anna R., and Yuval Peres. Game theory, alive. Vol. 101. American Mathematical Soc., 2017.
+
+1: Karlin, Anna R., and Yuval Peres. Game theory, alive. Vol. 101. American Mathematical Soc., 2017.
 
 
  
