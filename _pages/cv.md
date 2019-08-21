@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 --- 
 ### Game Theory
+   * Currently doing research on Online Stochastic Matching
    * Read "Game Theory, alive" by Karlin and Peres: Chapter 1 to 8, 10, 14 and "Algorithmic Game Theory" book by Nisan et al. chapters 1,2,4,9.
    * Video lectures from prof. Tim Roughgarden's [Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html) (10 first lectures)
    * Attended a short course on Information Design by prof. [Nima Haghpanah](https://www.personal.psu.edu/nuh47/)
