@@ -12,7 +12,6 @@ redirect_from:
    * Read "Game Theory, alive" by Karlin and Peres: Chapters 1 to 8, 10, 14 and "Algorithmic Game Theory" book by Nisan et al. chapters 1,2,4,9.
    * Video lectures from prof. Tim Roughgarden's [Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html) (10 first lectures)
    * Attended a short course on Information Design by prof. [Nima Haghpanah](https://www.personal.psu.edu/nuh47/)
-   * Attended a Workshop on Game Theory by [prof. Salavati](https://scholar.google.com/citations?hl=en&user=CeASr-0AAAAJ&view_op=list_works&sortby=pubdate)
    
 ### Statistical Machine Learning
    *  Passed related courses with distinctive qualifications such as **Stochastic Process**, **Data Mining** and audited **Statistical Machine Learning**, and **Probabilistic Graphical Models**.
