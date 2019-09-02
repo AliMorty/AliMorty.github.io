@@ -81,13 +81,17 @@ latency. <br>
  
 ### To what extent we can hope for a better application
 In the setting above, the price of anarchy is at most $ \frac{5}{2} $ . [1] Meaning that if we use the best social optimum paths, then the best thing we can hope for is to decrease our average latency by a factor of $ \frac{2}{5} $. If we assume that the model above is precise enough, then  $ \frac{2}{5} $ is a bound on how bad the navigation apps affect the traffic compared to the best possible routing system.  
+
+
  
 
  
  
 ## Conclusion: What is the solution
 
-The competition between different companies leads to this anarchy. Right now they do not have any incentive to give the social optimum route to each individual. So I can propose two naive ways-of courses there should be better solutions: <br>
+What we know so far is that, there is a possibility that the price of anarchy in our city would be a big number. So we should verify it. (Perhaps, by collecting data and estimating the latency function and distribution of starting and ending locations and computing the estimated price of anarchy). <br> 
+**Suppose** that it is verified that the price of anarchy in our city is a big number. In this case, 
+the competition between different companies leads to this anarchy. Right now they do not have any incentive to give the social optimum route to each individual. So I can propose two naive ways-of courses there should be better solutions: <br>
 
 ### 1) Restrict people to use a central app which gives us social optimum routes
 
