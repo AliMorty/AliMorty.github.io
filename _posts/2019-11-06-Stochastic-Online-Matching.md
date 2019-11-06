@@ -64,18 +64,18 @@ It seems that this algorithm works well! Now we want to find the worst-case scen
 ## Randomized Primal-Dual Analysis
 One of the easiest ways to find a bound on the worst-case scenario on the expected competitive ratio, $ \frac{E(ALG)}{Offline} $ is to use the primal-dual analysis explained in Devanur et al. (SODA13). The great thing about the primal-dual analysis is that it decouples out the complexity of thinking about all possible combinations of edges that might be in the worst-case setting. Instead, it encapsulates all the information needed for analyzing the worst case in the dual variables. <br>
 
-#### Primal Problem<br>
-$$ max \sum x_e $$
+#### Primal Problem
+$$ max \sum x_e $$ <br>
 subject to <br>
-$$ \sum x_e \leq 1 $$
-$$ x_e \geq 0 $$
+$$ \sum x_e \leq 1 $$ <br>
+$$ x_e \geq 0 $$ <br>
 
 
 #### Dual Problem
-$$ min \sum p_v $$
+$$ min \sum p_v $$ <br>
 subject to <br>
-$$ p_v + p_w \geq 1 $$ 
-$$ p_v \geq 0 $$
+$$ p_v + p_w \geq 1 $$ <br>
+$$ p_v \geq 0 $$ <br>
 
 
 The idea of this type of analysis is as follows:<br>
