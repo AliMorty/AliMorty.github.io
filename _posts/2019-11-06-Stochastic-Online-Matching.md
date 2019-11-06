@@ -64,12 +64,13 @@ It seems that this algorithm works well! Now we want to find the worst-case scen
 ## Randomized Primal-Dual Analysis
 One of the easiest ways to find a bound on the worst-case scenario on the expected competitive ratio, $ \frac{E(ALG)}{Offline} $ is to use the primal-dual analysis explained in Devanur et al. (SODA13). The great thing about the primal-dual analysis is that it decouples out the complexity of thinking about all possible combinations of edges that might be in the worst-case setting. Instead, it encapsulates all the information needed for analyzing the worst case in the dual variables. <br>
 
-Primal Problem:
+#### Primal Problem<br>
 $$
-max \sum x_e
+max \sum{e \in E) x_e
 $$
+$$ \sigma 
 
-Dual Problem:
+#### Dual Problem:
 …
 The idea of this type of analysis is as follows:
 We want to show that for any possible bipartite graph, the ratio between expected performance of algorithm and offline matching is bigger than some number F. We also know that any feasible solution of dual problem gives an upper bound for the primal problem. Therefore, We will show that any possible matching outcome has a corresponding dual solution which is not necessarily feasible, but the expected value of dual solutions is feasible. To show this, it is enough to show that for each edge, the expected value of p_v/F + p_w/F is >= 1 independent of other edges. Since all possible permutations have the same probability, we can calculate this expectation easily. (Of course, we could not make all the dual solutions feasible all the time with a F bigger than half, otherwise, we could have beat the half without any randomization.)
