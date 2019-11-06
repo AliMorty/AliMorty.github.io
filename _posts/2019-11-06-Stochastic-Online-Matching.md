@@ -35,8 +35,7 @@ He chooses the number of left vertices to be 2 at the beginning and in the first
 Based on the action done by the algorithm (which is shown by the orange arrow), the adversary will show one of the following neighbors for the next vertex. <br>
 ![Graph1](https://raw.githubusercontent.com/AliMorty/AliMorty.github.io/master/images/SM2.bmp)
  
-In any of these two scenarios, the second node cannot get matched. The adversary will terminate the game in this step.  We left with one match while the off-line version for both graphs matches both right vertices. So the competitive ratio is exactly half and not more. 
-We need to restrict the strength of the adversary. <br>
+In any of these two scenarios, the second node cannot get matched. The adversary will terminate the game in this step.  We left with one match while the off-line version for both graphs matches both right vertices. So the worst case competitive ratio is exactly half and not more. Therefore, to beat the half, we need to restrict the strength of the adversary. <br>
 
 ### Normal Adversary
 This type of adversary is just the usual adversary. This adversary knows the algorithm that we are going to use at the beginning, he should identify the entire bipartite graph before the algorithm makes any decision. Here, if the algorithm is a *deterministic* one, the normal adversary is as strong as the *stronger type of adversary* as he can predict the actions done by algorithm precisely at the beginning and construct the bipartite graph accordingly. Therefore, we need to add randomness to our algorithm to have any chance of beating the half! We want to make an unpredictable algorithm to not allowing the normal adversary to act as a strong adversary.
@@ -78,8 +77,8 @@ $$ p_v + p_w \geq 1 $$ <br>
 $$ p_v \geq 0 $$ <br>
 
 
-The idea of this type of analysis is as follows:<br>
-We want to show that for any possible bipartite graph, the ratio between expected performance of algorithm and offline matching is bigger than some number F. We also know that any feasible solution of dual problem gives an upper bound for the primal problem. Therefore, We will show that any possible matching outcome corresponds to a vector $ q $ such that dual solution $\frac{1}{F} q $ is feasible dual solution in expectation. (Not necessarily feasible all the time.) To show this, it is enough to show that for each edge, the expected value of $q_v/F + q_w/F$ is bigger than 1 independent of other edges so the solution is feasible. Since all possible permutations have the same probability, we can calculate this expectation easily. (Please note that, we could not expect all the dual solutions feasible all the time with a F bigger than half, otherwise, we could have beat the half without any randomization.)<br>
+The idea of this type of analysis is as follow:<br>
+We want to show that for any possible bipartite graph, the ratio between expected performance of algorithm and offline matching is bigger than some number F. We also know that any feasible solution of dual problem gives an upper bound for the primal problem. Therefore, we will show that any possible matching outcome corresponds to a vector $ q $ so that $ |q| $ is the number of matching. At the same time, we will show that $\frac{1}{F} q $ is a random variable whose expeteced value is also a feasible dual solution. Therefore, $\frac{1}{F} |q| \geq \text{offline match}$. To show this, it is enough to show the feasiblity for each edge separately. (i.e. the expected value of $q_v/F + q_w/F$ is bigger than 1.) Since all possible permutations have the same probability, we can calculate this expectation easily. (Please note that, we could not expect the random vector $q/F$ to be feasible all the time with F bigger than half, otherwise, we could have beat the half without any randomization.)<br>
 Karp, Vazirani, Vazirani also showed that this ratio is the best achievable ratio. <br>
 
 ### Stochastic Adversary
