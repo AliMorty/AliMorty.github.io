@@ -62,12 +62,32 @@ One way to make such an algorithm is simply choosing a random permutation (a ran
 It seems that this algorithm works well! Now we want to find the worst-case scenario. We want to make sure that our algorithm is a good one. This might be the hardest part because we need to put ourselves in the shoes of the adversary. Adversary’s job is not an easy task. Knowing the algorithm, he wants to find the worst case! <br>
 
 ## Randomized Primal-Dual Analysis
-One of the easiest ways to find a bound on the worst-case scenario on the expected competitive ratio, $ \frac{E(ALG)}{Offline} $ is to use the primal-dual analysis explained in Devanur et al. (SODA13). The great thing about the primal-dual analysis is that it decouples out the complexity of thinking about all possible combinations of edges that might be in the worst-case setting. Instead, it encapsulates all the information needed for analyzing the worst case in the dual variables. 
-The idea of this type of analysis is as follows:<br>
-We want to show that for any possible bipartite graph, the ratio ()
+One of the easiest ways to find a bound on the worst-case scenario on the expected competitive ratio, $ \frac{E(ALG)}{Offline} $ is to use the primal-dual analysis explained in Devanur et al. (SODA13). The great thing about the primal-dual analysis is that it decouples out the complexity of thinking about all possible combinations of edges that might be in the worst-case setting. Instead, it encapsulates all the information needed for analyzing the worst case in the dual variables. <br>
+
+Primal Problem:
+$$
+\begin{equation}
+    \begin{aligned}
+        &\underset{x}{\text{min}}&&\norm{f(x)}^2\\
+        &\text{subject to} &&\alpha \geq 0,\\
+        &&&\beta \geq 0.
+    \end{aligned}
+\end{equation}
+$$
+
+Dual Problem:
+…
+The idea of this type of analysis is as follows:
+We want to show that for any possible bipartite graph, the ratio between expected performance of algorithm and offline matching is bigger than some number F. We also know that any feasible solution of dual problem gives an upper bound for the primal problem. Therefore, We will show that any possible matching outcome has a corresponding dual solution which is not necessarily feasible, but the expected value of dual solutions is feasible. To show this, it is enough to show that for each edge, the expected value of p_v/F + p_w/F is >= 1 independent of other edges. Since all possible permutations have the same probability, we can calculate this expectation easily. (Of course, we could not make all the dual solutions feasible all the time with a F bigger than half, otherwise, we could have beat the half without any randomization.)
+Karp, Vazirani, Vazirani also showed that this ratio is the best achievable ratio. 
+
+Stochastic Adversary
+To make our problem close to the real world problem, it is useful to add more distributional assumption about the possible graph instances. This way, the adversary will be restricted to act according to a specific class of distribution hence we can hope for smarter algorithms with better bounds. 
+One way to is to add assumption about preferences of advertisers. The advertisers are generally interested in some type of customers and these preferences can be a given information to the algorithm. The algorithm can also know the frequency of arrival of each type of customers.  The algorithm then uses this information for the matching. For instance, Feldman et al. (FOCS09) beat 1-1/e in this setting.  
+
+There are different ways to add more realistic assumption about the real world problem and different ways to define the online version of matching. The problem that I worked on, are stochastic online matching which has a different setting. 
 
 
-As we know, any feasible solution gives an upper bound for the optimum solution of offline matching. So the idea is to relate the expected online matching to a feasible solution. 
 
 
 . 
