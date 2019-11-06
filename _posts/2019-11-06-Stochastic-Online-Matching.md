@@ -50,7 +50,7 @@ $ p_a,p_b $, we need to understand the behavior of adversary for
 any fixed $ p_a,p_b $. So let’s put ourselves to the adversary’s shoes. <br>
 ![Graph1](https://raw.githubusercontent.com/AliMorty/AliMorty.github.io/master/images/SM3.bmp)
  
-Knowing that with p_a the left scenario will happen in advance, the adversary needs to choose which edge can harm the performance of the algorithm the most. If the adversary chooses (2-a) edge in advance, then the expected matching becomes $ p_a+(1-p_a )*2 $ and if he uses (2-b) then the expected matching becomes $ p_a*2+(1-p_a) $. So he will choose the maximum. $ max⁡(p_a+(1-p_a )*2 ,p_a*2+(1-p_a)) $. Therefore, the best action for the algorithm is to minimize it by trying to balancing these two terms. Hence $ p_a=1/2 $. <br>
+Knowing that with p_a the left scenario will happen in advance, the adversary needs to choose which edge can harm the performance of the algorithm the most. If the adversary chooses (2-a) edge in advance, then the expected matching becomes $ p_a + 2 * (1-p_a) $ and if he uses (2-b) then the expected matching becomes $ p_a * 2 (1-p_a) $. So he will choose the maximum. $ max⁡(p_a+(1-p_a ) * 2 ,p_a * 2+(1-p_a)) $. Therefore, the best action for the algorithm is to minimize it by trying to balancing these two terms. Hence $ p_a=1/2 $. <br>
  
 
 ![Graph1](https://raw.githubusercontent.com/AliMorty/AliMorty.github.io/master/images/SM4.bmp)
