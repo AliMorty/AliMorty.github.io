@@ -46,7 +46,7 @@ Ok. Let’s think about what we would expect from our algorithm in instances tha
 In the beginning, our algorithm sees the first vertex (call it “1”) and its neighbors that adversary designed for us. If “1” has a single neighbor, there is no harm to match it in any possible scenario so we expect our algorithm to match it. But if “1” has two neighbors (a and b), our algorithm should identify that with what probability we will match it to “a” ($p_a$ ) and or to “b ($p_b$ ). (There is no point in not matching it, so this action has zero probability and $p_a+p_b=1$.) To find the best possible p_a,p_b, we need to understand the behavior of adversary for any fixed p_a,p_b. So let’s put ourselves to the adversary’s shoes. <br>
 ![Graph1](https://raw.githubusercontent.com/AliMorty/AliMorty.github.io/master/images/SM3.bmp)
  
-Knowing that with p_a the left scenario will happen in advance, the adversary needs to choose which edge can harm the performance of the algorithm the most. If the adversary chooses (2-a) edge in advance, then the expected matching becomes $p_a+(1-p_a )*2$ and if he uses (2-b) then the expected matching becomes $p_a*2+(1-p_a)$. So he will choose the maximum. $max⁡(p_a+(1-p_a )*2 ,p_a*2+(1-p_a))$. Therefore, the best action for the algorithm is to minimize it by trying to balancing these two terms. Hence p_a=1/2. <br>
+Knowing that with p_a the left scenario will happen in advance, the adversary needs to choose which edge can harm the performance of the algorithm the most. If the adversary chooses (2-a) edge in advance, then the expected matching becomes $ p_a+(1-p_a )*2 $ and if he uses (2-b) then the expected matching becomes $ p_a*2+(1-p_a) $. So he will choose the maximum. $ max⁡(p_a+(1-p_a )*2 ,p_a*2+(1-p_a)) $. Therefore, the best action for the algorithm is to minimize it by trying to balancing these two terms. Hence $ p_a=1/2 $. <br>
  
 
 ![Graph1](https://raw.githubusercontent.com/AliMorty/AliMorty.github.io/master/images/SM4.bmp)
@@ -58,7 +58,7 @@ One way to make such an algorithm is simply choosing a random permutation (a ran
 It seems that this algorithm works well! Now we want to find the worst-case scenario. We want to make sure that our algorithm is a good one. This might be the hardest part because we need to put ourselves in the shoes of the adversary. Adversary’s job is not an easy task. Knowing the algorithm, he wants to find the worst case! <br>
 
 ## Randomized Primal-Dual Analysis
-One of the easiest ways to find a bound on the worst-case scenario on the expected competitive ratio, (E(Online)/(|offline|)) is to use the primal-dual analysis explained in Devanur et al. (SODA13). The great thing about the primal-dual analysis is that it decouples out the complexity of thinking about all possible combinations of edges that might be in the worst-case setting. Instead, it encapsulates all the information needed for analyzing the worst case in the dual variables. 
+One of the easiest ways to find a bound on the worst-case scenario on the expected competitive ratio, $ \frac{E(ALG)}{Offline} $ is to use the primal-dual analysis explained in Devanur et al. (SODA13). The great thing about the primal-dual analysis is that it decouples out the complexity of thinking about all possible combinations of edges that might be in the worst-case setting. Instead, it encapsulates all the information needed for analyzing the worst case in the dual variables. 
 The idea of this type of analysis is as follows:<br>
 We want to show that for any possible bipartite graph, the ratio ()
 
