@@ -1,4 +1,4 @@
-# Online Stochastic Matching
+
 In this post, I want to explain a bit about my research experience in Online Stochastic Matching. But as my research for this project is not finished yet, I will just explain the preliminaries of my research and the way I (as a junior researcher) look at these type of problems. <br>
 
 
