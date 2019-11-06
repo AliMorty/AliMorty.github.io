@@ -66,14 +66,22 @@ One of the easiest ways to find a bound on the worst-case scenario on the expect
 
 #### Primal Problem<br>
 $$
-max \sum{e \in E) x_e
+max \sum x_e
 $$
-$$ \sigma 
+subject to <br>
+$$ \sum x_e \leq 1 $$
+$$ x_e \geq 0 $$
 
-#### Dual Problem:
-…
-The idea of this type of analysis is as follows:
-We want to show that for any possible bipartite graph, the ratio between expected performance of algorithm and offline matching is bigger than some number F. We also know that any feasible solution of dual problem gives an upper bound for the primal problem. Therefore, We will show that any possible matching outcome has a corresponding dual solution which is not necessarily feasible, but the expected value of dual solutions is feasible. To show this, it is enough to show that for each edge, the expected value of p_v/F + p_w/F is >= 1 independent of other edges. Since all possible permutations have the same probability, we can calculate this expectation easily. (Of course, we could not make all the dual solutions feasible all the time with a F bigger than half, otherwise, we could have beat the half without any randomization.)
+
+#### Dual Problem
+$$ min \sum p_v $$
+subject to <br>
+$$ p_v + p_w \geq 1 $$ 
+$$ p_v \geq 0 $$
+
+
+The idea of this type of analysis is as follows:<br>
+We want to show that for any possible bipartite graph, the ratio between expected performance of algorithm and offline matching is bigger than some number F. We also know that any feasible solution of dual problem gives an upper bound for the primal problem. Therefore, We will show that any possible matching outcome has a corresponding dual solution which is not necessarily feasible, but the expected value of dual solutions is feasible. To show this, it is enough to show that for each edge, the expected value of $p_v/F + p_w/F$ is bigger than 1 independent of other edges so the solution is feasible. Since all possible permutations have the same probability, we can calculate this expectation easily. (Of course, we could not make all the dual solutions feasible all the time with a F bigger than half, otherwise, we could have beat the half without any randomization.)
 Karp, Vazirani, Vazirani also showed that this ratio is the best achievable ratio. 
 
 ## Stochastic Adversary
