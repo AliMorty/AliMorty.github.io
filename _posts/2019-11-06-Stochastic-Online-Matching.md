@@ -43,7 +43,11 @@ This type of adversary is just the usual adversary. This adversary knows the alg
 
 ## Let’s try to find a good algorithm!
 Ok. Let’s think about what we would expect from our algorithm in instances that have two left vertices and then try to generalize our strategy for any possible bipartite graph.<br>
-In the beginning, our algorithm sees the first vertex (call it “1”) and its neighbors that adversary designed for us. If “1” has a single neighbor, there is no harm to match it in any possible scenario so we expect our algorithm to match it. But if “1” has two neighbors (a and b), our algorithm should identify that with what probability we will match it to “a” ($p_a$ ) and or to “b ($p_b$ ). (There is no point in not matching it, so this action has zero probability and $p_a+p_b=1$.) To find the best possible p_a,p_b, we need to understand the behavior of adversary for any fixed p_a,p_b. So let’s put ourselves to the adversary’s shoes. <br>
+In the beginning, our algorithm sees the first vertex (call it “1”) and its neighbors that adversary designed for us. If “1” has a single neighbor, there is no harm to match it in any possible scenario so we expect our algorithm to match it. But if “1” has two neighbors (a and b), our algorithm should identify that with what probability we will match it to “a” ($p_a$ )
+and or to “b ($p_b$ ). 
+(There is no point in not matching it, so this action has zero probability and $p_a+p_b=1$.) To find the best possible
+$ p_a,p_b $, we need to understand the behavior of adversary for
+any fixed $ p_a,p_b $. So let’s put ourselves to the adversary’s shoes. <br>
 ![Graph1](https://raw.githubusercontent.com/AliMorty/AliMorty.github.io/master/images/SM3.bmp)
  
 Knowing that with p_a the left scenario will happen in advance, the adversary needs to choose which edge can harm the performance of the algorithm the most. If the adversary chooses (2-a) edge in advance, then the expected matching becomes $ p_a+(1-p_a )*2 $ and if he uses (2-b) then the expected matching becomes $ p_a*2+(1-p_a) $. So he will choose the maximum. $ max⁡(p_a+(1-p_a )*2 ,p_a*2+(1-p_a)) $. Therefore, the best action for the algorithm is to minimize it by trying to balancing these two terms. Hence $ p_a=1/2 $. <br>
