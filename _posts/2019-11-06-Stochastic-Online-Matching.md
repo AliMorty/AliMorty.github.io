@@ -66,13 +66,7 @@ One of the easiest ways to find a bound on the worst-case scenario on the expect
 
 Primal Problem:
 $$
-\begin{equation}
-    \begin{aligned}
-        &\underset{x}{\text{min}}&&\norm{f(x)}^2\\
-        &\text{subject to} &&\alpha \geq 0,\\
-        &&&\beta \geq 0.
-    \end{aligned}
-\end{equation}
+SS
 $$
 
 Dual Problem:
