@@ -64,21 +64,21 @@ It seems that this algorithm works well! Now we want to find the worst-case scen
 One of the easiest ways to find a bound on the worst-case scenario on the expected competitive ratio, $ \frac{E(ALG)}{Offline} $ is to use the primal-dual analysis explained in Devanur et al. (SODA13). The great thing about the primal-dual analysis is that it decouples out the complexity of thinking about all possible combinations of edges that might be in the worst-case setting. Instead, it **encapsulates all the information needed for analyzing the worst case in the dual variables**. <br>
 
 #### Primal Problem
-$$ max \sum x_e $$ <br>
+$$ max \sum x_e_{e \in E} $$ <br>
 subject to <br>
-$$ \sum x_e \leq 1 $$ <br>
+$$ \sum x_e_{e \in \delta(v)} \leq 1 $$ for all $ v \in V $<br>
 $$ x_e \geq 0 $$ <br>
 
 
 #### Dual Problem
 $$ min \sum p_v $$ <br>
 subject to <br>
-$$ p_v + p_w \geq 1 $$ <br>
-$$ p_v \geq 0 $$ <br>
+$$ p_v + p_w \geq 1 $$ for all $(v,w) \in E $<br>
+$$ p_v \geq 0 $$ for all $v in V$ <br>
 
 
 The idea of this type of analysis is as follow:<br>
-We want to show that for any possible bipartite graph, the ratio between expected performance of algorithm and offline matching is bigger than some number F. We also know that any feasible solution of dual problem gives an upper bound for the primal problem. Therefore, we will show that any possible matching outcome corresponds to a vector $ q \subseteq \R^{|V|}$ so that $ ||q||_1 $ is the number of matching. At the same time, we will show that $\frac{1}{F} q $ is a random variable whose expeteced value is also a feasible dual solution. Therefore, $\frac{1}{F} ||q||_1 \geq \text{offline match}$ by weak duality. To show this, it is enough to show the feasiblity for each edge separately. (i.e. the expected value of $q_v/F + q_w/F$ is bigger than 1.) Since all possible permutations have the same probability, we can calculate this expectation easily. (Please note that, we could not expect the random vector $q/F$ to be feasible all the time with F bigger than half, otherwise, we would be able to beat the half without any randomization.)<br>
+We want to show that for any possible bipartite graph $G(V={L \cup R},E)$, the ratio between expected performance of algorithm and offline matching is bigger than some number F. We also know that any feasible solution of dual problem gives an upper bound for the primal problem. Therefore, we will show that any possible matching outcome corresponds to a vector $ q \subseteq \mathbb{R}^{|V|}$ so that $ ||q||_1 $ is the number of matching. At the same time, we will show that $\frac{1}{F} q $ is a random variable whose expeteced value is also a feasible dual solution. Therefore, $\frac{1}{F} ||q||_1 \geq \text{offline match}$ by weak duality. To show this, it is enough to show the feasiblity for each edge separately. (i.e. the expected value of $q_v/F + q_w/F$ is bigger than 1.) Since all possible permutations have the same probability, we can calculate this expectation easily. (Please note that, we could not expect the random vector $q/F$ to be feasible all the time with F bigger than half, otherwise, we would be able to beat the half without any randomization.)<br>
 Karp, Vazirani, Vazirani also showed that this ratio is the best achievable ratio. <br>
 
 ### Stochastic Adversary
