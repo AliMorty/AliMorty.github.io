@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 --- 
 ### Game Theory
-   * Currently doing research on Online Stochastic Matching
+   * Currently doing research on Online Stochastic Matching ([Here](https://alimorty.github.io//posts/2019-11-06-Online-Stochastic-Matching/) is a post about it)
    * Read "Game Theory, alive" by Karlin and Peres: Chapters 1 to 8, 10, 14 and "Algorithmic Game Theory" book by Nisan et al. chapters 1,2,4,9.
    * Video lectures from prof. Tim Roughgarden's [Algorithmic Game Theory](http://timroughgarden.org/f13/f13.html) (10 first lectures); Lecture notes from prof. Aaron Roth's [Algorithmic Game Theory](https://www.cis.upenn.edu/~aaroth/courses/agtS17.html) (9 first lectures, Online Learning Part)
    * Attended a short course on Information Design by prof. [Nima Haghpanah](https://www.personal.psu.edu/nuh47/)
