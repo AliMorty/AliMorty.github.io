@@ -64,9 +64,9 @@ It seems that this algorithm works well! Now we want to find the worst-case scen
 One of the easiest ways to find a bound on the worst-case scenario on the expected competitive ratio, $ \frac{E(ALG)}{Offline} $ is to use the primal-dual analysis explained in Devanur et al. (SODA13). The great thing about the primal-dual analysis is that it decouples out the complexity of thinking about all possible combinations of edges that might be in the worst-case setting. Instead, it **encapsulates all the information needed for analyzing the worst case in the dual variables**. <br>
 
 #### Primal Problem
-$$ max \sum x_e_{e \in E}^{} $$ <br>
+$$ max \sum\nolimits_{e \in E} x_e $$ <br>
 subject to <br>
-$$ \sum x_e_{e \in \delta(v)}^{} \leq 1 $$ for all $ v \in V $<br>
+$$ \sum\nolimits_{e \in \delta(v)} x_e \leq 1 $$ for all $ v \in V $<br>
 $$ x_e \geq 0 $$ <br>
 
 
