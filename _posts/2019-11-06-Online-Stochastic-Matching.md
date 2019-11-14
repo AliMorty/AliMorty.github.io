@@ -67,7 +67,7 @@ One of the easiest ways to find a bound on the worst-case scenario on the expect
 $$ max \sum\nolimits_{e \in E} x_e $$ <br>
 subject to <br>
 $$ \sum\nolimits_{e \in \delta(v)} x_e \leq 1 $$ for all $ v \in V $<br>
-$$ x_e \geq 0 for all $ e \in E $ $$ <br>
+$$ x_e \geq 0 $$ for all $ e \in E $ <br>
 
 
 #### Dual Problem
