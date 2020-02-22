@@ -1,7 +1,6 @@
 
-Probably all of us, if we have a car, use navigator applications to find the fastest route. Especially when there is huge traffic in the city. In my country, people usually used Google Map in the past. But just recently, there is a large number of new applications that are far better than Google Map, usually because of their new features such as navigation guidance voice, online update, better estimation, etc. <br>
- 
-Two years ago, those applications were doing quite well. But nowadays, we have a very strange type of traffic in our city. When you drive in the afternoon, you will see that some highways are completely congested while some others are pretty empty. I think this situation is similar to a concept that I have learned in Game Theory. I want to discuss it here: <br>
+We used to believe that to have the best final prodcut, we should make a competitive environment for all companies. This way they will do their best to provide us a high quality product with the minimum cost. Although this intuition seems to be true all the times, there are some cases in which the best final outcome happens when we restrict this type of competition between different companies. For instance, consider the competition between different navigation assistant applications such as google map, waze, etc. They are trying to always give you the best possible route. Otherwise, we probably will choose another application. Although this competition seems very nice. But in this post, I will explain how this competition can lead us to a bad outcom for the sociaty of drivers! 
+
 
 
  
