@@ -15,7 +15,7 @@ In this setting, each person has an average travel time. (Since we don't have an
 There is a question arising in this setting. Does using this app necessarily lead to our city having the lowest possible average travel time for each individual? Or we can do better? <br>
 Someone might think that if each individual tries to minimize his travel time in each travel, then he is using routes less than the time when he doesn't. So on aggregate, this will be the best possible choice for each individual. But this is not necessarily true. (I know it might be a little confusing for the first time, but wait), I will explain it using a very famous example which is called Baraess Paradox. 
  
-## Baraess Paradox
+## Braess Paradox
 (All of the images here are from Game Theory Alive book [1]) <br>
 Suppose that we have 2 routes from A to B similar to the image below. Each edge in this graph has a latency function. We call it $l_e(x)$ where x is the number of cars in that edge. <br>
 Here, edges AD and CB have a constant latency function equals to one. $ l_{AD}(x)= l_{CB}(x)=1 $ (they represent streets which are sparse enough so that you can drive with the maximum speed of 30km/h without any trouble.) <br>
