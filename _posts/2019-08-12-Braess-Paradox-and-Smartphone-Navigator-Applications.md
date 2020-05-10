@@ -8,8 +8,8 @@ We used to believe that to have the best final product, we should make a competi
  
 Of course, all of the navigator applications try to increase their customers by providing better features. One of the most important features is the **ability to find the fastest route for each customer**. So the applications are designed in a way that if there is a better shortcut, that shortcut will be get used for customers to tempt them to use the same application for the next time. (instead of any other competitor apps.)<br>
  
-In other words, because we only use the application that gives us the best route every time, all companies inevitably should try their best to give us the best route every time otherwise they will not be used anymore!<br> 
-As a result, after a while, aside from the, aside from the specific application that each individual uses, each individual is trying to find the best route for himself. In the following, we will explain why this is a bad thing for society! <br>
+In other words, because we only use the application that gives us the best route every time, all companies inevitably should try their best to give us the best route every time otherwise their product will not be used anymore!<br> 
+As a result, after a while, aside from the specific application that each individual uses, each individual is trying to find the best route for himself. In the following, we will explain why this is a bad thing for society! <br>
 ## Let’s define Average Travel Time
 In this setting, each person has an average travel time. (Since we don't have any information about each individual, and because, roughly speaking, each region in the city is similar to other regions, we can assume that the situation for each individual is the same and symmetric, so this average time is the amount of time we need to put for each travel) <br>
 There is a question arising in this setting. Does using this app necessarily lead to our city having the lowest possible average travel time for each individual? Or we can do better? <br>
