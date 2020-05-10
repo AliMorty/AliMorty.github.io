@@ -1,17 +1,15 @@
 
-We used to believe that to have the best final prodcut, we should make a competitive environment for all companies. This way they will do their best to provide us a high quality product with the minimum cost. Although this intuition seems to be true all the times, there are some cases in which the best final outcome happens when we restrict this type of competition between different companies. For instance, consider the competition between different navigation assistant applications such as google map, waze, etc. They are trying to always give you the best possible route. Otherwise, we probably will not use them again so they will become extinct! Although this competition seems very nice, in this post, I will explain how this competition can lead us to a bad outcom for the sociaty of drivers! 
+We used to believe that to have the best final product, we should make a competitive environment for all companies. This way they will do their best to provide us a high-quality product with the minimum cost. Although this intuition seems to be true all the time, there are some cases in which the best outcome happens when we restrict this type of competition between different companies. For instance, consider the competition between different navigation assistant applications such as Google Maps, Waze, etc. They are trying to always give you the best possible route. Otherwise, we probably will not use them again so they will become extinct! Although this competition seems very nice, in this post, I will explain how this competition can lead us to a bad outcome for the society of drivers!
 
 
 
  
 ## Let’s talk about the competition between navigation apps first:
  
-Of course, all of the navigator applications try to increase their customers by providing better features. One of the most important features is the **ability to find the fastest route for each customer**. So the applications are written in a way that if there is a better shortcut, that shortcut will be get used for customers to tempt them to use the same application for the next time. (instead of any other competitor apps.)<br>
+Of course, all of the navigator applications try to increase their customers by providing better features. One of the most important features is the **ability to find the fastest route for each customer**. So the applications are designed in a way that if there is a better shortcut, that shortcut will be get used for customers to tempt them to use the same application for the next time. (instead of any other competitor apps.)<br>
  
-As a result, all applications are trying to give the best route for each individual at the beginning of their launch. And because there is competition between different companies, this process will not change. They will always give the best way for each individual. <br>
- 
-People use the best applications, so if there are several applications, they should have the same performance on average. <br> 
-So basically, aside from the specific application that each individual uses, each individual is trying to find the best route for himself. <br>
+In other words, because we only use the application that gives us the best route every time, all companies inevitably should try their best to give us the best route every time otherwise they will not be used anymore!<br> 
+As a result, after a while, aside from the, aside from the specific application that each individual uses, each individual is trying to find the best route for himself. In the following, we will explain why this is a bad thing for society! <br>
 ## Let’s define Average Travel Time
 In this setting, each person has an average travel time. (Since we don't have any information about each individual, and because, roughly speaking, each region in the city is similar to other regions, we can assume that the situation for each individual is the same and symmetric, so this average time is the amount of time we need to put for each travel) <br>
 There is a question arising in this setting. Does using this app necessarily lead to our city having the lowest possible average travel time for each individual? Or we can do better? <br>
