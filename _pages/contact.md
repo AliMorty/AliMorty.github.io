@@ -9,8 +9,7 @@ redirect_from:
 ---
 ### Email Address:
 
-> * ali_mortazavi@aut.ac.ir 
-> * mortazavi.ali1994@gmail.com <br>
+> * alithemorty@gmail.com <br>
 
 ### Skype: ali.morty <br>
 
