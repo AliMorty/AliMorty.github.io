@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am Ali Mortazavi. I am starting my Ph.D. studies at the CS department at [UVic](http://uvic.ca/) to work on online learning under the supervision of [Prof. Nishant Mehta](http://web.uvic.ca/~nmehta/). <br>
-Previously, I did my undergrad and master's in the Computer Engineering department of [AmirKabir University of Technology](https://alimorty.github.io//posts/2019-08-03-About-Amirkabir-University-of-Technology/). I also did a summer research internship on [online stochastic matching](https://alimorty.github.io//posts/2019-11-06-Online-Stochastic-Matching/) at [ITCS](http://itcs.shufe.edu.cn/people/) group at Shanghai University of Finance and Economics (SUFE) under supervision of Prof. Nick Gravin.<br>
+Previously, I did my undergrad and master's in the Computer Engineering department of [AmirKabir University of Technology](https://alimorty.github.io//posts/2019-08-03-About-Amirkabir-University-of-Technology/). I also did a summer research internship on [online stochastic matching](https://alimorty.github.io//posts/2019-11-06-Online-Stochastic-Matching/) at [ITCS](http://itcs.shufe.edu.cn/people/) group at Shanghai University of Finance and Economics (SUFE) under supervision of [Prof. Nick Gravin](http://itcs.shufe.edu.cn/~gravin/).<br>
 <br>
 
 
