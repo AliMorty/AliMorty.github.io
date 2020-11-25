@@ -27,7 +27,7 @@ EDUCATION
 RESEARCH INTEREST
 ======
 
-In general, I am interested in problems in the intersection of learning theory, game theory and algorithms under uncertainty. Moreover, most of the questions that come to my mind during the day are related to some sort of applications of game theory. (i.e. understanding the selfish agents’ behavior, finding a way to maximize the social welfare and maximizing the fairness, aggregating subjective preferences of a group, evolutionary equilibria in real life, price of anarchy when people use the best navigation app!-[here is a post about it](https://alimorty.github.io//posts/2019-08-12-Baraess-Paradox-and-Smartphone-Navigator-Applications/), etc.) <br>
+In general, I am interested in problems in the intersection of learning theory, game theory and algorithms under uncertainty. Moreover, most of the questions that come to my mind during the day are related to some sort of applications of game theory. (i.e. understanding the selfish agents’ behavior, finding a way to maximize the social welfare and maximizing the fairness, aggregating subjective preferences of a group, evolutionary equilibria in real life, price of anarchy when people use the best navigation app!-[here is a post about it](https://alimorty.github.io//posts/2019-08-12-Braess-Paradox-and-Smartphone-Navigator-Applications/), etc.) <br>
 As long as there is a nice theoretical question that I can do some progress on it, I’m in! But let’s list my interests here:<br>
 
 * Online Learning
