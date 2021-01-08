@@ -7,22 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Ali Mortazavi. I am starting my Ph.D. studies at the CS department at [UVic](http://uvic.ca/) to work on online learning under the supervision of [Prof. Nishant Mehta](http://web.uvic.ca/~nmehta/). <br>
+I am Ali Mortazavi. I am a Ph.D. student at the CS department at [UVic](http://uvic.ca/) working on online learning under the supervision of [Prof. Nishant Mehta](http://web.uvic.ca/~nmehta/). <br>
 Previously, I did my undergrad and master's in the Computer Engineering department of [AmirKabir University of Technology](https://alimorty.github.io//posts/2019-08-03-About-Amirkabir-University-of-Technology/). I also did a summer research internship on [online stochastic matching](https://alimorty.github.io//posts/2019-11-06-Online-Stochastic-Matching/) at [ITCS](http://itcs.shufe.edu.cn/people/) group at Shanghai University of Finance and Economics (SUFE) under the supervision of [Prof. Nick Gravin](http://itcs.shufe.edu.cn/~gravin/).<br>
 <br>
 
 
 
- 
-
-
-
-EDUCATION
-======
-> **BSc in Computer Engineering** <br>
-> AmirKabir University of Technology (Tehran Polytechnic)
-> * [CGPA](https://github.com/AliMorty/AliMorty.github.io/raw/master/files/Transcript_Ali_Mortazavi.pdf):   Overall         18.47 / 20 (3.78/4)
-> * [Selected courses](https://alimorty.github.io//education/)   19.33 / 20 (4/4) <br>
                                                                   
 RESEARCH INTEREST
 ======
