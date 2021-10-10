@@ -10,11 +10,12 @@ redirect_from:
 ### Email Address:
 
 > * alithemorty@gmail.com <br>
+> * alimorty@uvic.ca
 
 ### Skype: ali.morty <br>
 
 
-### Tell: (+98) 937 146 2838 <br>
+
 
 
 
