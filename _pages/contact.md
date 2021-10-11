@@ -12,7 +12,7 @@ redirect_from:
 > * alithemorty@gmail.com <br>
 > * alimorty@uvic.ca
 
-### Skype: ali.morty <br>
+
 
 
 
