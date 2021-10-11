@@ -11,8 +11,8 @@ author_profile: true
                                                                 														
 																  
 																  
-## More information about some coursework
-In the **Artificial Intelligence**, **Stochastic Process**, **Algorithm Desing**, **Topics in Computer Science (Algorithm II)**, and **Theory of Machines and Languages** courses, I have got the distinctive highest grade in the class. <br>
+## Information about some courseworks
+
 
 {% include base_path %}
 
