@@ -17,7 +17,7 @@ Previously, I did my undergrad and master's in the Computer Engineering departme
 RESEARCH INTEREST
 ======
 
-In general, I am interested in problems in the intersection of learning theory, game theory and algorithms under uncertainty. I'm currently working on "learning under presence of strategic agents", and also some problems in online convex optimization. I also like many topics in algorithmic game thoery and mechanism design. Basically, as long as there is a nice theoretical question that I can have some progress on it, I’m in! But let’s list my interests here:<br>
+In general, I am interested in problems in the intersection of learning theory, game theory and algorithms under uncertainty. I'm currently working on "learning under presence of strategic agents", and also some problems in online convex optimization. Basically, as long as there is a nice theoretical question that I can have some progress on it, I’m in! But let’s list my interests here:<br>
 
 * Online Learning
 * Algorithmic Game Theory
