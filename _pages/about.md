@@ -11,7 +11,14 @@ I am Ali Mortazavi. I am a Ph.D. student at the CS department at [University of 
 Previously, I did my undergrad and master's in the Computer Engineering department of [AmirKabir University of Technology](https://alimorty.github.io//posts/2019-08-03-About-Amirkabir-University-of-Technology/). I also did a summer research internship on [online stochastic matching](https://alimorty.github.io//posts/2019-11-06-Online-Stochastic-Matching/) at [ITCS](http://itcs.shufe.edu.cn/people/) group at Shanghai University of Finance and Economics (SUFE) under the supervision of [Prof. Nick Gravin](http://itcs.shufe.edu.cn/~gravin/).<br>
 <br>
 
+                                                                  
+Publications
+======
 
+* On the price of exact truthfulness in incentive-compatible online learning with bandit feedback: A regret lower bound for WSU-UX
+  Ali Mortazavi, Junhao Lin, Nishant Mehta
+  AISTATS 2024
+  [arXiv](https://arxiv.org/abs/2404.05155)
 
                                                                   
 RESEARCH INTEREST
