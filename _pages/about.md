@@ -30,11 +30,11 @@ Publications
 RESEARCH INTEREST
 ======
 
-In general, I am interested in problems in the intersection of learning theory, game theory and algorithms under uncertainty. I'm currently working on "learning under presence of strategic agents", and also some problems in online convex optimization. Basically, as long as there is a nice theoretical question that I can have some progress on it, I’m in! But let’s list my interests here:<br>
+In general, I am interested in problems in the intersection of learning theory, game theory and algorithms under uncertainty. I'm currently working on "learning under the presence of strategic agents", and also some problems in online convex optimization. Basically, as long as there is a nice theoretical question that I can make some progress on, I’m in! But let’s list my interests here:<br>
 
 * Online Learning
 * Algorithmic Game Theory
-* Mechanism Design (for social good!)
+* Mechanism Design ( for social good!)
 * Online (Stochastic) Algorithms
 
 
