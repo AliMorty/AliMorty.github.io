@@ -17,7 +17,7 @@ Publications
 
 * On the price of exact truthfulness in incentive-compatible online learning with bandit feedback: A regret lower bound for WSU-UX
   - **Authors:** Ali Mortazavi, Junhao Lin, Nishant Mehta
-  - **Conference:** AISTATS 2024, [\[arXiv\]](https://arxiv.org/abs/2404.05155)
+  - **Conference:** [AISTATS 2024](https://proceedings.mlr.press/v238/mortazavi24a.html), [\[arXiv\]](https://arxiv.org/abs/2404.05155)
 
 * Best-case lower bounds in online learning
   - **Authors:** Cristóbal Guzmán, Nishant Mehta, Ali Mortazavi
