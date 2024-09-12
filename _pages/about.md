@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am Ali Mortazavi, a Ph.D. student at the Computer Science department at the [University of Victoria](http://uvic.ca/) focusing on online learning and its intersection with game theory under the supervision of [Prof. Nishant Mehta](http://web.uvic.ca/~nmehta/). <br>
-Previously, I did my undergrad and master's in the Computer Engineering department of AmirKabir University of Technology. I also did a summer research internship on [online stochastic matching](https://alimorty.github.io//posts/2019-11-06-Online-Stochastic-Matching/) at [Insitute for Theoretical Computer Science][https://itcs.sufe.edu.cn/main.htm] group at Shanghai University of Finance and Economics (SUFE) under the supervision of [Prof. Nick Gravin](http://itcs.shufe.edu.cn/~gravin/).<br>
+Previously, I did my undergrad and master's in the Computer Engineering department of AmirKabir University of Technology. I also did a summer research internship on [online stochastic matching](https://alimorty.github.io//posts/2019-11-06-Online-Stochastic-Matching/) at [Insitute for Theoretical Computer Science](https://itcs.sufe.edu.cn/main.htm) group at Shanghai University of Finance and Economics (SUFE) under the supervision of [Prof. Nick Gravin](http://itcs.shufe.edu.cn/~gravin/).<br>
 <br>
 
                                                                   
