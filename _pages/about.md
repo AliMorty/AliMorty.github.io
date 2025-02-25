@@ -14,7 +14,7 @@ Previously, I did my undergrad and master's in the Computer Engineering departme
                                                                   
 Publications
 ======
-* On the price of exact truthfulness in incentive-compatible online learning with bandit feedback: A regret lower bound for WSU-UX
+* No-regret incentive-compatible online learning under exact truthfulness with non-myopic experts
   - **Authors:** Junpei Komiyama, Nishant A Mehta, Ali Mortazavi
   - **Preprint:** [\[arXiv\]](https://arxiv.org/abs/2502.11483)
   
