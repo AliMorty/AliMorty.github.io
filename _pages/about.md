@@ -15,15 +15,15 @@ Previously, I did my undergrad and master's in the Computer Engineering departme
  
 ## Publications
 
-### **No‑regret incentive‑compatible online learning under exact truthfulness with non‑myopic experts**
+### No‑regret incentive‑compatible online learning under exact truthfulness with non‑myopic experts
 **Authors:** Junpei Komiyama, Nishant A. Mehta, Ali Mortazavi  
 **Conference:** ACM EC 2025, [\[arXiv\]](https://arxiv.org/abs/2502.11483)
 
-### **On the price of exact truthfulness in incentive‑compatible online learning with bandit feedback: A regret lower bound for WSU‑UX**
+### On the price of exact truthfulness in incentive‑compatible online learning with bandit feedback: A regret lower bound for WSU‑UX
 **Authors:** Ali Mortazavi, Junhao Lin, Nishant Mehta  
 **Conference:** [AISTATS 2024](https://proceedings.mlr.press/v238/mortazavi24a.html), [\[arXiv\]](https://arxiv.org/abs/2404.05155)
 
-### **Best‑case lower bounds in online learning**
+### Best‑case lower bounds in online learning
 **Authors:** Cristóbal Guzmán, Nishant Mehta, Ali Mortazavi  
 **Conference:** [NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/b7da6669894867f04b8727876a69ffc0-Abstract.html), [\[arXiv\]](https://proceedings.neurips.cc/paper/2021/hash/b7da6669894867f04b8727876a69ffc0-Abstract.html)
 
