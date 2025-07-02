@@ -25,7 +25,7 @@ Ali Mortazavi, Junhao Lin, Nishant Mehta
 
 ### Best‑case lower bounds in online learning
 Cristóbal Guzmán, Nishant Mehta, Ali Mortazavi  
-[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/b7da6669894867f04b8727876a69ffc0-Abstract.html), [\[arXiv\]](https://proceedings.neurips.cc/paper/2021/hash/b7da6669894867f04b8727876a69ffc0-Abstract.html)
+[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/b7da6669894867f04b8727876a69ffc0-Abstract.html), [\[arXiv\]](https://arxiv.org/abs/2106.12688)
 
   
 
