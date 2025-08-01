@@ -9,8 +9,8 @@ redirect_from:
 ---
 ### Email Address:
 
-> * alithemorty@gmail.com <br>
-> * alimorty@uvic.ca
+> * <firtname>themorty@Gmail <br>
+> * <firtname>morty@uvic.ca
 
 
 
