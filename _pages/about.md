@@ -17,7 +17,7 @@ Previously, I did my undergrad and master's in the Computer Engineering departme
 
 ### No‑regret incentive‑compatible online learning under exact truthfulness with non‑myopic experts
 Junpei Komiyama, Nishant A. Mehta, Ali Mortazavi  
-ACM conference on Economics and Computation (EC) 2025, [\[arXiv\]](https://arxiv.org/abs/2502.11483)
+ACM conference on Economics and Computation [(EC 2025)](https://dl.acm.org/doi/abs/10.1145/3736252.3742659), [\[arXiv\]](https://arxiv.org/abs/2502.11483)
 
 ### On the price of exact truthfulness in incentive‑compatible online learning with bandit feedback: A regret lower bound for WSU‑UX
 Ali Mortazavi, Junhao Lin, Nishant Mehta  
