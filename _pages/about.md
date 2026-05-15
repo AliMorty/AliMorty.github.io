@@ -28,7 +28,9 @@ Cristóbal Guzmán, Nishant Mehta, Ali Mortazavi
 [NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/b7da6669894867f04b8727876a69ffc0-Abstract.html), [\[arXiv\]](https://arxiv.org/abs/2106.12688)
 
   
-
+## Connect with me 
+- We have a [weekly tea gathering](https://alimorty.github.io/more_tea/) in UVic ECS668 if you want to come by.
+- Email me: \<firstname\>themorty@gmail.com
 
 
 
