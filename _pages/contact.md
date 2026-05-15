@@ -14,7 +14,7 @@ redirect_from:
 * alimorty@uvic.ca
 
 ## In person
-- We have a [weekly tea gathering](https://alimorty.github.io/more_tea/) in UVic ECS668, feel free to come by!
+- We have a [weekly tea gathering](https://alimorty.github.io/more_tea/about.html) in UVic ECS668, feel free to come by!
 
 
 
