@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Email Address:
+## Email Address:
 
 * alithemorty@gmail.com <br>
 * alimorty@uvic.ca
