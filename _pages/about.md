@@ -11,6 +11,7 @@ I am Ali Mortazavi, a Ph.D. student at the Computer Science department at the [U
 Previously, I did my undergrad and master's in the Computer Engineering department of Amirkabir University of Technology. I also did a summer research internship on online stochastic matching at [Insitute for Theoretical Computer Science](https://itcs.sufe.edu.cn/main.htm) group at Shanghai University of Finance and Economics (SUFE) under the supervision of [Prof. Nick Gravin](http://itcs.shufe.edu.cn/~gravin/).<br>
 <br>
 
+<b>I am graduating in December 2026 and open to positions in industry and academia, starting 2027.</b> Feel free to reach out!
                                                                   
  
 ## Publications
